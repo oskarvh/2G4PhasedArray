@@ -1,0 +1,12 @@
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="phased_array_lib:patch:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+model MSub1 MSUB H=1.6 mm Er=4.6 Mur=1 Cond=1.0E+50 Hu=3.9e+34 mm T=35 um TanD=0.015 Rough=0 mm DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz RoughnessModel=2 
+
+W=36.56
+L=28.18
+Wf=3.1
+L_if=9.949
+VIA:V1  N__4 N__5 D1=0.375 mm D2=0.375 mm H=0.625 mm T=0.00375 mm 
+MLIN2:TL3  N__5 P1 Subst="MSub1" W=0.625 mm L=2.5 mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLOC2:TL1  N__4 Subst="MSub1" W=(W) mm L=(L-L_if) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLOC2:TL2  N__4 Subst="MSub1" W=(W) mm L=(L_if) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 

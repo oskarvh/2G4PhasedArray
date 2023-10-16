@@ -1,0 +1,51 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  C:/git/2G4PhasedArray/ADS_workspace/phased_array_wrk/simulation/phased_array_lib/patch/layout/emSetup_viz3D/EMDS4ADS.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material cond    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Material __SubstrateLayer1    1.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  Material cond2    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object __SubstrateLayer1_1    1.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  Object cond2_2    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  Object cond_3    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object __SubstrateLayer1_1 1  0  80  
+  Object cond2_2 1  1  50  
+  Object cond_3 1  1  50  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position    3.6480767822265625e+002    -2.4310855102539062e+002     2.5978656005859375e+002  
+  Target    9.1438003540039063e+001    -5.3018264770507813e+001     3.1100494384765625e+001  
+  Up   -4.8394864797592163e-001     2.9512882232666016e-001     8.2382804155349731e-001  
+     1.1424975585937500e+002     1.1424975585937500e+002  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Bottom_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+

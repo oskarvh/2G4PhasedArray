@@ -1,0 +1,57 @@
+<EmSimSetup version="1.0">
+  <PortMain version="1.0">
+    <MomLayout version="1.0">
+      <workspaceText>undefined</workspaceText>
+      <libraryText>phased_array_lib</libraryText>
+      <cellText>patch</cellText>
+      <viewText>layout</viewText>
+    </MomLayout>
+    <PortEditorDialog version="1.0">
+      <autoSelect>True</autoSelect>
+      <autoCenter>True</autoCenter>
+      <autoZoom>False</autoZoom>
+      <hideConnectedPins>False</hideConnectedPins>
+      <PinView version="1.0">
+        <Pins>
+          <Pin version="1.0">
+            <pinName>P1</pinName>
+            <netName>P1</netName>
+            <pinNum>1</pinNum>
+            <toolInfo/>
+            <compInfo/>
+            <shapes>
+              <PinShapeDef version="1.0">
+                <layerNum>2</layerNum>
+                <purposeNum>-1</purposeNum>
+                <layerIdName>cond2:drawing</layerIdName>
+                <shapeType>point</shapeType>
+                <points>
+                  <stdItem>0:-0.00073</stdItem>
+                </points>
+              </PinShapeDef>
+            </shapes>
+          </Pin>
+        </Pins>
+      </PinView>
+      <PortView version="1.1">
+        <portCalibrationTypeOverride></portCalibrationTypeOverride>
+        <Ports>
+          <Port version="1.1">
+            <portNum>1</portNum>
+            <portName>P1</portName>
+            <refImpedance>2.95:46</refImpedance>
+            <type>TML (zero length)</type>
+            <refoffset>0</refoffset>
+            <termType>2</termType>
+            <PlusPinNames>
+              <stdItem>P1</stdItem>
+            </PlusPinNames>
+            <MinusPinNames>
+              <stdItem>::__GND__</stdItem>
+            </MinusPinNames>
+          </Port>
+        </Ports>
+      </PortView>
+    </PortEditorDialog>
+  </PortMain>
+</EmSimSetup>
