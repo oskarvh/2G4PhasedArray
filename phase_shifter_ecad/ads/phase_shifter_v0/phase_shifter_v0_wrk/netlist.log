@@ -1,0 +1,224 @@
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="phase_shifter_v0_lib:phase_shifter_slim:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+MCURVE2:Curve37  N__121 N__96 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve29  N__41 N__23 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term31  P31 0 Num=31 Z=50 Ohm Noise=yes 
+Port:Term30  P30 0 Num=30 Z=50 Ohm Noise=yes 
+Port:Term29  P29 0 Num=29 Z=50 Ohm Noise=yes 
+MLIN2:TL112  N__35 N__32 Subst="MSub1" W=w mm L=(L_180/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL39  N__30 P14 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL111  N__168 N__39 Subst="MSub1" W=w mm L=(L_180/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL43  N__29 N__27 Subst="MSub1" W=w mm L=(L_11_25/2) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+Port:Term13  P13 0 Num=13 Z=50 Ohm Noise=yes 
+MLIN2:TL13  P1 N__126 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve14  N__171 N__5 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL100  N__4 N__161 Subst="MSub1" W=w mm L=(L_90/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL99  N__9 N__162 Subst="MSub1" W=w mm L=(L_90/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve99  N__164 N__161 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL31  N__83 P10 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve73  N__75 N__67 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL34  N__3 N__55 Subst="MSub1" W=w mm L=(L_5_625/2) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve72  N__73 N__101 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term11  P11 0 Num=11 Z=50 Ohm Noise=yes 
+MLIN2:TL25  P7 N__22 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+Port:Term14  P14 0 Num=14 Z=50 Ohm Noise=yes 
+MCURVE2:Curve17  N__59 N__60 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term12  P12 0 Num=12 Z=50 Ohm Noise=yes 
+Port:Term15  P15 0 Num=15 Z=50 Ohm Noise=yes 
+Port:Term4  P4 0 Num=4 Z=50 Ohm Noise=yes 
+MCURVE2:Curve98  N__162 N__164 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve97  N__103 N__31 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL26  N__1 N__50 Subst="MSub1" W=w mm L=(L_2_8125/2) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve36  N__125 N__3 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve96  N__31 N__4 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve51  N__90 N__88 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve105  N__25 N__17 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve5  N__51 N__93 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL27  N__21 N__15 Subst="MSub1" W=w mm L=(L_2_8125/2) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL53  N__8 N__97 Subst="MSub1" W=w mm L=(L_22_5/4-len_mult_2*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL106  N__28 N__25 Subst="MSub1" W=w mm L=(L_180/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL105  P31 N__17 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve49  N__89 N__129 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term10  P10 0 Num=10 Z=50 Ohm Noise=yes 
+MCURVE2:Curve45  N__49 N__34 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL45  N__2 N__56 Subst="MSub1" W=w mm L=(L_22_5/4-len_mult_2*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve40  N__37 N__30 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term1  P1 0 Num=1 Z=50 Ohm Noise=yes 
+MLIN2:TL103  P29 N__18 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL104  N__165 N__20 Subst="MSub1" W=w mm L=(L_180/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve104  N__28 N__19 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term7  P7 0 Num=7 Z=50 Ohm Noise=yes 
+Port:Term5  P5 0 Num=5 Z=50 Ohm Noise=yes 
+MLIN2:TL44  N__90 N__89 Subst="MSub1" W=w mm L=(L_22_5/4-len_mult_2*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL14  P3 N__123 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve79  N__52 N__66 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve59  N__85 N__124 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term20  P20 0 Num=20 Z=50 Ohm Noise=yes 
+model MSub1 MSUB H=0.0994 mm Er=4.1 Mur=1 Cond=1.0E+50 Hu=1.0e+033 mm T=0.035 mm TanD=0 Rough=0 mm DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz RoughnessModel=2 
+MCURVE2:Curve1  N__126 N__93 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL30  N__58 P12 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve75  N__71 N__73 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL11  N__91 N__92 Subst="MSub1" W=w mm L=(L_1_40625/2) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL17  N__59 P4 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve41  N__37 N__49 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term18  P18 0 Num=18 Z=50 Ohm Noise=yes 
+MCURVE2:Curve48  N__128 N__87 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve23  N__92 N__123 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL52  N__170 N__54 Subst="MSub1" W=w mm L=(4*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve52  N__124 N__2 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL41  P15 N__46 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL42  N__0 N__33 Subst="MSub1" W=w mm L=(L_11_25/2) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL23  N__14 P6 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve103  N__18 N__26 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve100  N__40 N__42 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve101  N__44 N__163 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve102  N__19 N__165 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve113  N__167 N__39 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL101  N__40 N__44 Subst="MSub1" W=w mm L=(L_180/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve115  N__42 N__168 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve114  N__32 N__167 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve112  N__61 N__62 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve111  N__64 N__63 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve110  N__64 N__65 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL35  N__95 N__94 Subst="MSub1" W=w mm L=(L_5_625/2) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve109  N__45 N__166 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve108  N__35 N__45 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+
+w=0.1463
+len_mult_2=0.51 tune{ 0.25 to 0.75 by 0.01 }
+len_mult_3=0.68 tune{ 0.25 to 0.75 by 0.01 }
+pitch_sw=0.35
+L_180=35.97
+L_90=17.99
+L_45=8.99
+L_22_5=4.5
+L_11_25=2.25
+L_5_625=1.12
+L_2_8125=0.56
+L_1_40625=0.28
+L_ref=0.1
+L_meander=0.5
+meander_mult=4*r_bend
+L1=1
+wg=0.5
+r_bend=0.7
+s=0.508
+ref_len=5
+MCURVE2:Curve106  N__70 N__26 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve107  N__163 N__20 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL110  N__63 P30 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL109  N__166 N__62 Subst="MSub1" W=w mm L=(L_180/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve24  N__98 N__14 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve11  N__82 N__81 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve53  N__122 N__56 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL46  P19 N__129 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve47  N__47 N__34 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve31  N__84 N__23 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve56  N__88 N__8 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+
+;#@# autodisplay="S_Params_Quad_dB_Smith"
+MCURVE2:Curve78  N__69 N__77 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve27  N__13 N__50 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve44  N__38 N__0 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL24  P5 N__84 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL49  N__122 P20 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve33  N__57 N__121 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve46  N__27 N__46 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL16  N__81 P2 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve43  N__36 N__33 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve34  N__95 N__125 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL40  P13 N__47 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL22  N__13 P8 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve35  N__58 N__55 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve32  N__57 N__83 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve25  N__98 N__41 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL48  N__53 P18 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+Port:Term8  P8 0 Num=8 Z=50 Ohm Noise=yes 
+MCURVE2:Curve74  N__9 N__75 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL38  N__36 P16 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL107  N__70 N__65 Subst="MSub1" W=w mm L=(8*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL108  N__61 P32 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+Port:Term28  P28 0 Num=28 Z=50 Ohm Noise=yes 
+Port:Term27  P27 0 Num=27 Z=50 Ohm Noise=yes 
+Port:Term26  P26 0 Num=26 Z=50 Ohm Noise=yes 
+Port:Term25  P25 0 Num=25 Z=50 Ohm Noise=yes 
+MLIN2:TL74  P25 N__104 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL73  N__103 N__71 Subst="MSub1" W=w mm L=(L_90/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL72  N__69 P28 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL71  N__67 N__77 Subst="MSub1" W=w mm L=(L_90/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL70  N__102 P26 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL69  N__52 N__6 Subst="MSub1" W=w mm L=(8*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL68  N__74 N__101 Subst="MSub1" W=w mm L=(L_90/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL67  P27 N__78 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL66  N__68 N__80 Subst="MSub1" W=w mm L=(L_90/6-len_mult_3*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve83  N__79 N__74 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve82  N__104 N__66 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve81  N__68 N__79 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve80  N__80 N__78 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term24  P24 0 Num=24 Z=50 Ohm Noise=yes 
+Port:Term23  P23 0 Num=23 Z=50 Ohm Noise=yes 
+Port:Term22  P22 0 Num=22 Z=50 Ohm Noise=yes 
+Port:Term21  P21 0 Num=21 Z=50 Ohm Noise=yes 
+MLIN2:TL65  N__111 N__146 Subst="MSub1" W=w mm L=(L_45/4-len_mult_2*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL64  P23 N__147 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL63  P21 N__116 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve26  N__21 N__24 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL47  P17 N__128 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=2.4 GHz Stop=2.5 GHz Lin=101 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+MLIN2:TL54  N__85 N__86 Subst="MSub1" W=w mm L=(L_22_5/4-len_mult_2*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve54  N__48 N__54 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve42  N__29 N__38 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve50  N__170 N__87 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term2  P2 0 Num=2 Z=50 Ohm Noise=yes 
+MCURVE2:Curve58  N__86 N__100 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term3  P3 0 Num=3 Z=50 Ohm Noise=yes 
+MCURVE2:Curve30  N__15 N__22 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve38  N__94 N__99 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL12  N__5 N__60 Subst="MSub1" W=w mm L=(L_1_40625/2) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+Port:Term9  P9 0 Num=9 Z=50 Ohm Noise=yes 
+MLIN2:TL33  P11 N__99 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve55  N__48 N__53 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term6  P6 0 Num=6 Z=50 Ohm Noise=yes 
+MCURVE2:Curve28  N__24 N__1 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve57  N__100 N__97 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve39  N__127 N__96 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL32  P9 N__127 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+Port:Term17  P17 0 Num=17 Z=50 Ohm Noise=yes 
+MCURVE2:Curve20  N__91 N__171 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL62  N__109 N__141 Subst="MSub1" W=w mm L=(L_45/4-len_mult_2*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL61  N__145 P24 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL60  N__113 N__144 Subst="MSub1" W=w mm L=(L_45/4-len_mult_2*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MLIN2:TL59  N__119 N__120 Subst="MSub1" W=w mm L=(L_45/4-len_mult_2*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve76  N__76 N__6 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL57  N__110 N__114 Subst="MSub1" W=w mm L=(4*r_bend) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve77  N__76 N__102 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MLIN2:TL55  N__143 P22 Subst="MSub1" W=w mm L=L_ref mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+MCURVE2:Curve71  N__142 N__120 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve70  N__115 N__113 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve69  N__109 N__115 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve68  N__141 N__142 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve67  N__112 N__114 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve66  N__112 N__143 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve65  N__145 N__144 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve64  N__110 N__117 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve63  N__146 N__147 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve62  N__111 N__118 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve61  N__116 N__117 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+MCURVE2:Curve60  N__118 N__119 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term19  P19 0 Num=19 Z=50 Ohm Noise=yes 
+MCURVE2:Curve8  N__82 N__51 Subst="MSub1" W=w mm Angle=90 Radius=r_bend mm Nmode=2 
+Port:Term16  P16 0 Num=16 Z=50 Ohm Noise=yes 
+Port:Term32  P32 0 Num=32 Z=50 Ohm Noise=yes 

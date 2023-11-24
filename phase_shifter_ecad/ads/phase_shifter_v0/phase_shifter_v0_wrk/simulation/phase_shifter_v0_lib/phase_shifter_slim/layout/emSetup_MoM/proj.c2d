@@ -1,0 +1,1433 @@
+CITIFILE A.01.01
+#Momentum: B.12.00.024 (*) built: Jan 14 2016 
+#Momentum Date and Time: Wed Nov 22 22:11:14 2023
+
+NAME PortSet1/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+
+CONSTANT NBR_OF_PORTS 32
+
+VAR freq MAG 4
+
+DATA GAMMA_1[1] RI
+DATA GAMMA_1[2] RI
+DATA Z0_1[1,1] RI
+DATA Z0_1[1,2] RI
+DATA Z0_1[2,1] RI
+DATA Z0_1[2,2] RI
+DATA LAMBADAI_1[1,1] RI
+DATA LAMBADAI_1[1,2] RI
+DATA LAMBADAI_1[2,1] RI
+DATA LAMBADAI_1[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet2/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_2[1] RI
+DATA GAMMA_2[2] RI
+DATA Z0_2[1,1] RI
+DATA Z0_2[1,2] RI
+DATA Z0_2[2,1] RI
+DATA Z0_2[2,2] RI
+DATA LAMBADAI_2[1,1] RI
+DATA LAMBADAI_2[1,2] RI
+DATA LAMBADAI_2[2,1] RI
+DATA LAMBADAI_2[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet3/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_2[1] RI
+DATA GAMMA_2[2] RI
+DATA Z0_2[1,1] RI
+DATA Z0_2[1,2] RI
+DATA Z0_2[2,1] RI
+DATA Z0_2[2,2] RI
+DATA LAMBADAI_2[1,1] RI
+DATA LAMBADAI_2[1,2] RI
+DATA LAMBADAI_2[2,1] RI
+DATA LAMBADAI_2[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet4/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_4[1] RI
+DATA GAMMA_4[2] RI
+DATA GAMMA_4[3] RI
+DATA GAMMA_4[4] RI
+DATA Z0_4[1,1] RI
+DATA Z0_4[1,2] RI
+DATA Z0_4[1,3] RI
+DATA Z0_4[1,4] RI
+DATA Z0_4[2,1] RI
+DATA Z0_4[2,2] RI
+DATA Z0_4[2,3] RI
+DATA Z0_4[2,4] RI
+DATA Z0_4[3,1] RI
+DATA Z0_4[3,2] RI
+DATA Z0_4[3,3] RI
+DATA Z0_4[3,4] RI
+DATA Z0_4[4,1] RI
+DATA Z0_4[4,2] RI
+DATA Z0_4[4,3] RI
+DATA Z0_4[4,4] RI
+DATA LAMBADAI_4[1,1] RI
+DATA LAMBADAI_4[1,2] RI
+DATA LAMBADAI_4[1,3] RI
+DATA LAMBADAI_4[1,4] RI
+DATA LAMBADAI_4[2,1] RI
+DATA LAMBADAI_4[2,2] RI
+DATA LAMBADAI_4[2,3] RI
+DATA LAMBADAI_4[2,4] RI
+DATA LAMBADAI_4[3,1] RI
+DATA LAMBADAI_4[3,2] RI
+DATA LAMBADAI_4[3,3] RI
+DATA LAMBADAI_4[3,4] RI
+DATA LAMBADAI_4[4,1] RI
+DATA LAMBADAI_4[4,2] RI
+DATA LAMBADAI_4[4,3] RI
+DATA LAMBADAI_4[4,4] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet5/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_1[1] RI
+DATA GAMMA_1[2] RI
+DATA Z0_1[1,1] RI
+DATA Z0_1[1,2] RI
+DATA Z0_1[2,1] RI
+DATA Z0_1[2,2] RI
+DATA LAMBADAI_1[1,1] RI
+DATA LAMBADAI_1[1,2] RI
+DATA LAMBADAI_1[2,1] RI
+DATA LAMBADAI_1[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet6/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_2[1] RI
+DATA GAMMA_2[2] RI
+DATA Z0_2[1,1] RI
+DATA Z0_2[1,2] RI
+DATA Z0_2[2,1] RI
+DATA Z0_2[2,2] RI
+DATA LAMBADAI_2[1,1] RI
+DATA LAMBADAI_2[1,2] RI
+DATA LAMBADAI_2[2,1] RI
+DATA LAMBADAI_2[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet7/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_2[1] RI
+DATA GAMMA_2[2] RI
+DATA Z0_2[1,1] RI
+DATA Z0_2[1,2] RI
+DATA Z0_2[2,1] RI
+DATA Z0_2[2,2] RI
+DATA LAMBADAI_2[1,1] RI
+DATA LAMBADAI_2[1,2] RI
+DATA LAMBADAI_2[2,1] RI
+DATA LAMBADAI_2[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet8/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_2[1] RI
+DATA GAMMA_2[2] RI
+DATA Z0_2[1,1] RI
+DATA Z0_2[1,2] RI
+DATA Z0_2[2,1] RI
+DATA Z0_2[2,2] RI
+DATA LAMBADAI_2[1,1] RI
+DATA LAMBADAI_2[1,2] RI
+DATA LAMBADAI_2[2,1] RI
+DATA LAMBADAI_2[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet9/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_9[1] RI
+DATA GAMMA_9[2] RI
+DATA Z0_9[1,1] RI
+DATA Z0_9[1,2] RI
+DATA Z0_9[2,1] RI
+DATA Z0_9[2,2] RI
+DATA LAMBADAI_9[1,1] RI
+DATA LAMBADAI_9[1,2] RI
+DATA LAMBADAI_9[2,1] RI
+DATA LAMBADAI_9[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet10/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_9[1] RI
+DATA GAMMA_9[2] RI
+DATA Z0_9[1,1] RI
+DATA Z0_9[1,2] RI
+DATA Z0_9[2,1] RI
+DATA Z0_9[2,2] RI
+DATA LAMBADAI_9[1,1] RI
+DATA LAMBADAI_9[1,2] RI
+DATA LAMBADAI_9[2,1] RI
+DATA LAMBADAI_9[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet11/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_9[1] RI
+DATA GAMMA_9[2] RI
+DATA Z0_9[1,1] RI
+DATA Z0_9[1,2] RI
+DATA Z0_9[2,1] RI
+DATA Z0_9[2,2] RI
+DATA LAMBADAI_9[1,1] RI
+DATA LAMBADAI_9[1,2] RI
+DATA LAMBADAI_9[2,1] RI
+DATA LAMBADAI_9[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet12/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_12[1] RI
+DATA GAMMA_12[2] RI
+DATA Z0_12[1,1] RI
+DATA Z0_12[1,2] RI
+DATA Z0_12[2,1] RI
+DATA Z0_12[2,2] RI
+DATA LAMBADAI_12[1,1] RI
+DATA LAMBADAI_12[1,2] RI
+DATA LAMBADAI_12[2,1] RI
+DATA LAMBADAI_12[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet13/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_13[1] RI
+DATA GAMMA_13[2] RI
+DATA Z0_13[1,1] RI
+DATA Z0_13[1,2] RI
+DATA Z0_13[2,1] RI
+DATA Z0_13[2,2] RI
+DATA LAMBADAI_13[1,1] RI
+DATA LAMBADAI_13[1,2] RI
+DATA LAMBADAI_13[2,1] RI
+DATA LAMBADAI_13[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet14/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_14[1] RI
+DATA GAMMA_14[2] RI
+DATA Z0_14[1,1] RI
+DATA Z0_14[1,2] RI
+DATA Z0_14[2,1] RI
+DATA Z0_14[2,2] RI
+DATA LAMBADAI_14[1,1] RI
+DATA LAMBADAI_14[1,2] RI
+DATA LAMBADAI_14[2,1] RI
+DATA LAMBADAI_14[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet15/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_13[1] RI
+DATA GAMMA_13[2] RI
+DATA Z0_13[1,1] RI
+DATA Z0_13[1,2] RI
+DATA Z0_13[2,1] RI
+DATA Z0_13[2,2] RI
+DATA LAMBADAI_13[1,1] RI
+DATA LAMBADAI_13[1,2] RI
+DATA LAMBADAI_13[2,1] RI
+DATA LAMBADAI_13[2,2] RI
+
+VAR_LIST_BEGIN
+	 2400000000
+	 2433333333
+	 2466666667
+	 2500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 0,	 76.24815764
+	 0,	 77.30715983
+	 0,	 78.36616202
+	 0,	 79.42516421
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END

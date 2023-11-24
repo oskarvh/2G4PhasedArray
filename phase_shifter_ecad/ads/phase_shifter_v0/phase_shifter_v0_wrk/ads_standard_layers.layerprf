@@ -1,0 +1,8 @@
+<!DOCTYPE DisplayAttributes>
+<Lpp_Differences_List>
+    <LPP visible="0" layer="IC_pin1_marker" purpose="drawing"/>
+    <LPP visible="0" layer="IC_pin_number" purpose="drawing"/>
+    <LPP visible="0" layer="cond" purpose="drawing"/>
+    <LPP visible="0" layer="default" purpose="drawing"/>
+    <LPP visible="0" layer="silk_screen" purpose="drawing"/>
+</Lpp_Differences_List>

@@ -1,0 +1,5 @@
+jobName=EmPpMsgs
+jobType=emprep
+designName=phase_shifter_v0_lib:phase_shifter_slim:layout
+ruleFilePath=
+addInfo="EM preprocessor messages displayed as DRC errors"

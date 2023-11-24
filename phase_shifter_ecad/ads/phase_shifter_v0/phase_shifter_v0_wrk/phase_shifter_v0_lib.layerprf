@@ -1,0 +1,11 @@
+<!DOCTYPE DisplayAttributes>
+<Lpp_Differences_List>
+    <LPP visible="0" layer="M1" purpose="drawing"/>
+    <LPP visible="0" layer="M2" purpose="drawing"/>
+    <LPP visible="0" layer="M3" purpose="drawing"/>
+    <LPP visible="0" layer="M4" purpose="drawing"/>
+    <LPP visible="0" layer="g_via" purpose="drawing"/>
+    <LPP visible="0" layer="phase_shifter_v1-PTH.drl" purpose="drawing"/>
+    <LPP visible="0" layer="silkscreen2" purpose="drawing"/>
+    <LPP visible="0" layer="silkscreen" purpose="drawing"/>
+</Lpp_Differences_List>

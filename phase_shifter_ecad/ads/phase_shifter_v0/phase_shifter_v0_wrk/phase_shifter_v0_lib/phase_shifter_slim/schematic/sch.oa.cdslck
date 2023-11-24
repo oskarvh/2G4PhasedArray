@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      oskar
+HostName                       LAPTOP-U6K5EAV2
+ProcessIdentifier              2868
+ProcessCreationTime_UTC        1700758775
+ProcessCreationTime_Readable   11/23/23 08:59:35 Pacific, normaltid
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\git\2G4PhasedArray\phase_shifter_ecad\ads\phase_shifter_v0\phase_shifter_v0_wrk\phase_shifter_v0_lib\phase_shifter_slim\schematic\sch.oa.cdslck
+TimeEditLocked                 11/23/23 09:00:29 Pacific, normaltid

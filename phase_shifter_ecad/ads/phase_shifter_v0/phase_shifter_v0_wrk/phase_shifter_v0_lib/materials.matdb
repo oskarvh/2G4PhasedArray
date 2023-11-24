@@ -1,0 +1,13 @@
+<!DOCTYPE Materials>
+<Materials>
+    <Conductors>
+        <Conductor real="5.8e7 Siemens/m" imag="" mur_real="1" mur_imag="" name="Copper" parmtype="1"/>
+    </Conductors>
+    <Dielectrics>
+        <Dielectric er_loss="" loss_type="1" er_imag="" er_real="3.8" lowfreq="1 KHz" valuefreq="10 GHz" mur_real="1" mur_imag="" highfreq="1 THz" name="SolderMask"/>
+        <Dielectric er_loss="0.01" loss_type="1" er_imag="" er_real="4.1" lowfreq="1 KHz" valuefreq="10 GHz" mur_real="1" mur_imag="" highfreq="1 THz" name="FR_4_Prepreg"/>
+        <Dielectric er_loss="0.01" loss_type="1" er_imag="" er_real="4.6" lowfreq="1 KHz" valuefreq="10 GHz" mur_real="1" mur_imag="" highfreq="1 THz" name="FR_4_Core"/>
+    </Dielectrics>
+    <Semiconductors/>
+    <roughness/>
+</Materials>

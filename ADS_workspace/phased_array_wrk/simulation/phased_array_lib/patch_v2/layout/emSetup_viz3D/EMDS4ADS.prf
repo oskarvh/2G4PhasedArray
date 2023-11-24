@@ -1,0 +1,60 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  C:/git/2G4PhasedArray/ADS_workspace/phased_array_wrk/simulation/phased_array_lib/patch_v2/layout/emSetup_viz3D/EMDS4ADS.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material cond    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Material __SubstrateLayer1    1.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  Material hole    0.0000000000000000e+000     7.4901960784313726e-001     1.0000000000000000e+000  
+  Material cond2    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object __SubstrateLayer1_1    1.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  Object hole_5    0.0000000000000000e+000     7.4901960784313726e-001     1.0000000000000000e+000  
+  Object cond2_2    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  Object cond2_3    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  Object cond2_4    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  Object cond_6    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Object cond_7    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object __SubstrateLayer1_1 1  0  80  
+  Object hole_5 1  1  50  
+  Object cond2_2 1  1  50  
+  Object cond2_3 1  1  50  
+  Object cond2_4 1  1  50  
+  Object cond_6 1  1  50  
+  Object cond_7 1  1  50  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position    1.0823590850830078e+002    -1.3622552490234375e+002     1.7689347839355469e+002  
+  Target   -2.0000000000000000e+000     1.9510000228881836e+001     7.5000000000000000e-001  
+  Up   -4.5223352313041687e-001     5.0858658552169800e-001     7.3268318176269531e-001  
+     1.0387068176269531e+002     1.0387068176269531e+002  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Bottom_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+

@@ -1,0 +1,2113 @@
+(resolution 10000)
+(line 255
+  (data -15000 5268 -15001 5268)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_1" 126 -15000 5268))
+(polygon 255
+  (data -15004 5264 -14996 5264 -14996 5272 -15004 5272)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_1" 126 -15000 5268))
+(line 255
+  (data -15000 6732 -15001 6732)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_2" 126 -15000 6732))
+(polygon 255
+  (data -15004 6728 -14996 6728 -14996 6736 -15004 6736)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_2" 126 -15000 6732))
+(line 255
+  (data -15000 12268 -15001 12268)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_3" 126 -15000 12268))
+(polygon 255
+  (data -15004 12264 -14996 12264 -14996 12272 -15004 12272)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_3" 126 -15000 12268))
+(line 255
+  (data -15000 13732 -15001 13732)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_4" 126 -15000 13732))
+(polygon 255
+  (data -15004 13728 -14996 13728 -14996 13736 -15004 13736)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_4" 126 -15000 13732))
+(line 255
+  (data -14000 64668 -14001 64668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_5" 126 -14000 64668))
+(polygon 255
+  (data -14004 64664 -13996 64664 -13996 64672 -14004 64672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_5" 126 -14000 64668))
+(line 255
+  (data -14000 66132 -14001 66132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_6" 126 -14000 66132))
+(polygon 255
+  (data -14004 66128 -13996 66128 -13996 66136 -14004 66136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_6" 126 -14000 66132))
+(line 255
+  (data -14000 71668 -14001 71668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_7" 126 -14000 71668))
+(polygon 255
+  (data -14004 71664 -13996 71664 -13996 71672 -14004 71672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_7" 126 -14000 71668))
+(line 255
+  (data -14000 73132 -14001 73132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_8" 126 -14000 73132))
+(polygon 255
+  (data -14004 73128 -13996 73128 -13996 73136 -14004 73136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_8" 126 -14000 73132))
+(line 255
+  (data -7268 -6599 -7268 -6600)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_9" 126 -7268 -6599))
+(polygon 255
+  (data -7272 -6603 -7264 -6603 -7264 -6595 -7272 -6595)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_9" 126 -7268 -6599))
+(line 255
+  (data -8732 -6599 -8732 -6600)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_10" 126 -8732 -6599))
+(polygon 255
+  (data -8736 -6603 -8728 -6603 -8728 -6595 -8736 -6595)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_10" 126 -8732 -6599))
+(line 255
+  (data -8732 -1001 -8732 -1000)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_11" 126 -8732 -1001))
+(polygon 255
+  (data -8736 -1005 -8728 -1005 -8728 -997 -8736 -997)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_11" 126 -8732 -1001))
+(line 255
+  (data -7268 -1001 -7268 -1000)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_12" 126 -7268 -1001))
+(polygon 255
+  (data -7272 -1005 -7264 -1005 -7264 -997 -7272 -997)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_12" 126 -7268 -1001))
+(line 255
+  (data -7268 20001 -7268 19999)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_13" 126 -7268 20001))
+(polygon 255
+  (data -7272 19997 -7264 19997 -7264 20005 -7272 20005)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_13" 126 -7268 20001))
+(line 255
+  (data -8732 20001 -8732 19999)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_14" 126 -8732 20001))
+(polygon 255
+  (data -8736 19997 -8728 19997 -8728 20005 -8736 20005)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_14" 126 -8732 20001))
+(line 255
+  (data -6268 57001 -6268 57000)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_15" 126 -6268 57001))
+(polygon 255
+  (data -6272 56997 -6264 56997 -6264 57005 -6272 57005)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_15" 126 -6268 57001))
+(line 255
+  (data -7732 57001 -7732 57000)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_16" 126 -7732 57001))
+(polygon 255
+  (data -7736 56997 -7728 56997 -7728 57005 -7736 57005)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_16" 126 -7732 57001))
+(line 255
+  (data -6268 58400 -6268 58399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_17" 126 -6268 58400))
+(polygon 255
+  (data -6272 58396 -6264 58396 -6264 58404 -6272 58404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_17" 126 -6268 58400))
+(line 255
+  (data -7732 58400 -7732 58399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_18" 126 -7732 58400))
+(polygon 255
+  (data -7736 58396 -7728 58396 -7728 58404 -7736 58404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_18" 126 -7732 58400))
+(line 255
+  (data -6268 79401 -6268 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_19" 126 -6268 79401))
+(polygon 255
+  (data -6272 79397 -6264 79397 -6264 79405 -6272 79405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_19" 126 -6268 79401))
+(line 255
+  (data -7732 79401 -7732 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_20" 126 -7732 79401))
+(polygon 255
+  (data -7736 79397 -7728 79397 -7728 79405 -7736 79405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_20" 126 -7732 79401))
+(line 255
+  (data -999 -14332 -1001 -14332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_21" 126 -999 -14332))
+(polygon 255
+  (data -1003 -14336 -995 -14336 -995 -14328 -1003 -14328)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_21" 126 -999 -14332))
+(line 255
+  (data -999 -12868 -1001 -12868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_22" 126 -999 -12868))
+(polygon 255
+  (data -1003 -12872 -995 -12872 -995 -12864 -1003 -12864)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_22" 126 -999 -12868))
+(line 255
+  (data -999 26268 -1001 26268)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_23" 126 -999 26268))
+(polygon 255
+  (data -1003 26264 -995 26264 -995 26272 -1003 26272)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_23" 126 -999 26268))
+(line 255
+  (data -999 27732 -1001 27732)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_24" 126 -999 27732))
+(polygon 255
+  (data -1003 27728 -995 27728 -995 27736 -1003 27736)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_24" 126 -999 27732))
+(line 255
+  (data 1 49268 -1 49268)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_25" 126 1 49268))
+(polygon 255
+  (data -3 49264 5 49264 5 49272 -3 49272)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_25" 126 1 49268))
+(line 255
+  (data 1 50732 -1 50732)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_26" 126 1 50732))
+(polygon 255
+  (data -3 50728 5 50728 5 50736 -3 50736)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_26" 126 1 50732))
+(line 255
+  (data 1 85668 -1 85668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_27" 126 1 85668))
+(polygon 255
+  (data -3 85664 5 85664 5 85672 -3 85672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_27" 126 1 85668))
+(line 255
+  (data 1 87132 -1 87132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_28" 126 1 87132))
+(polygon 255
+  (data -3 87128 5 87128 5 87136 -3 87136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_28" 126 1 87132))
+(line 255
+  (data 6732 -6599 6732 -6600)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_29" 126 6732 -6599))
+(polygon 255
+  (data 6728 -6603 6736 -6603 6736 -6595 6728 -6595)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_29" 126 6732 -6599))
+(line 255
+  (data 5268 -6599 5268 -6600)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_30" 126 5268 -6599))
+(polygon 255
+  (data 5264 -6603 5272 -6603 5272 -6595 5264 -6595)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_30" 126 5268 -6599))
+(line 255
+  (data 5268 -1001 5268 -1000)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_31" 126 5268 -1001))
+(polygon 255
+  (data 5264 -1005 5272 -1005 5272 -997 5264 -997)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_31" 126 5268 -1001))
+(line 255
+  (data 6732 -1001 6732 -1000)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_32" 126 6732 -1001))
+(polygon 255
+  (data 6728 -1005 6736 -1005 6736 -997 6728 -997)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_32" 126 6732 -1001))
+(line 255
+  (data 6732 20001 6732 19999)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_33" 126 6732 20001))
+(polygon 255
+  (data 6728 19997 6736 19997 6736 20005 6728 20005)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_33" 126 6732 20001))
+(line 255
+  (data 5268 20001 5268 19999)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_34" 126 5268 20001))
+(polygon 255
+  (data 5264 19997 5272 19997 5272 20005 5264 20005)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_34" 126 5268 20001))
+(line 255
+  (data 7732 57001 7732 57000)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_35" 126 7732 57001))
+(polygon 255
+  (data 7728 56997 7736 56997 7736 57005 7728 57005)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_35" 126 7732 57001))
+(line 255
+  (data 6268 57001 6268 57000)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_36" 126 6268 57001))
+(polygon 255
+  (data 6264 56997 6272 56997 6272 57005 6264 57005)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_36" 126 6268 57001))
+(line 255
+  (data 7732 58400 7732 58399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_37" 126 7732 58400))
+(polygon 255
+  (data 7728 58396 7736 58396 7736 58404 7728 58404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_37" 126 7732 58400))
+(line 255
+  (data 6268 58400 6268 58399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_38" 126 6268 58400))
+(polygon 255
+  (data 6264 58396 6272 58396 6272 58404 6264 58404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_38" 126 6268 58400))
+(line 255
+  (data 7732 79401 7732 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_39" 126 7732 79401))
+(polygon 255
+  (data 7728 79397 7736 79397 7736 79405 7728 79405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_39" 126 7732 79401))
+(line 255
+  (data 6268 79401 6268 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_40" 126 6268 79401))
+(polygon 255
+  (data 6264 79397 6272 79397 6272 79405 6264 79405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_40" 126 6268 79401))
+(line 255
+  (data 10000 -104802 9999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_41" 126 10000 -104802))
+(polygon 255
+  (data 9996 -104806 10004 -104806 10004 -104798 9996 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_41" 126 10000 -104802))
+(line 255
+  (data 10000 -103338 9999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_42" 126 10000 -103338))
+(polygon 255
+  (data 9996 -103342 10004 -103342 10004 -103334 9996 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_42" 126 10000 -103338))
+(line 255
+  (data 10000 -98012 9999 -98012)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_43" 126 10000 -98012))
+(polygon 255
+  (data 9996 -98016 10004 -98016 10004 -98008 9996 -98008)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_43" 126 10000 -98012))
+(line 255
+  (data 10000 -96548 9999 -96548)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_44" 126 10000 -96548))
+(polygon 255
+  (data 9996 -96552 10004 -96552 10004 -96544 9996 -96544)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_44" 126 10000 -96548))
+(line 255
+  (data 13001 5268 13000 5268)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_45" 126 13001 5268))
+(polygon 255
+  (data 12997 5264 13005 5264 13005 5272 12997 5272)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_45" 126 13001 5268))
+(line 255
+  (data 13001 6732 13000 6732)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_46" 126 13001 6732))
+(polygon 255
+  (data 12997 6728 13005 6728 13005 6736 12997 6736)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_46" 126 13001 6732))
+(line 255
+  (data 13001 12268 13000 12268)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_47" 126 13001 12268))
+(polygon 255
+  (data 12997 12264 13005 12264 13005 12272 12997 12272)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_47" 126 13001 12268))
+(line 255
+  (data 13001 13732 13000 13732)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_48" 126 13001 13732))
+(polygon 255
+  (data 12997 13728 13005 13728 13005 13736 12997 13736)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_48" 126 13001 13732))
+(line 255
+  (data 14001 64668 14000 64668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_49" 126 14001 64668))
+(polygon 255
+  (data 13997 64664 14005 64664 14005 64672 13997 64672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_49" 126 14001 64668))
+(line 255
+  (data 14001 66132 14000 66132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_50" 126 14001 66132))
+(polygon 255
+  (data 13997 66128 14005 66128 14005 66136 13997 66136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_50" 126 14001 66132))
+(line 255
+  (data 14001 71668 14000 71668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_51" 126 14001 71668))
+(polygon 255
+  (data 13997 71664 14005 71664 14005 71672 13997 71672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_51" 126 14001 71668))
+(line 255
+  (data 14001 73132 14000 73132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_52" 126 14001 73132))
+(polygon 255
+  (data 13997 73128 14005 73128 14005 73136 13997 73136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_52" 126 14001 73132))
+(line 255
+  (data 17732 -136502 17732 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_53" 126 17732 -136502))
+(polygon 255
+  (data 17728 -136506 17736 -136506 17736 -136498 17728 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_53" 126 17732 -136502))
+(line 255
+  (data 16268 -136502 16268 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_54" 126 16268 -136502))
+(polygon 255
+  (data 16264 -136506 16272 -136506 16272 -136498 16264 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_54" 126 16268 -136502))
+(line 255
+  (data 16268 -111071 16268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_55" 126 16268 -111071))
+(polygon 255
+  (data 16264 -111075 16272 -111075 16272 -111067 16264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_55" 126 16268 -111071))
+(line 255
+  (data 17732 -111071 17732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_56" 126 17732 -111071))
+(polygon 255
+  (data 17728 -111075 17736 -111075 17736 -111067 17728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_56" 126 17732 -111071))
+(line 255
+  (data 17732 -90279 17732 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_57" 126 17732 -90279))
+(polygon 255
+  (data 17728 -90283 17736 -90283 17736 -90275 17728 -90275)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_57" 126 17732 -90279))
+(line 255
+  (data 16268 -90279 16268 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_58" 126 16268 -90279))
+(polygon 255
+  (data 16264 -90283 16272 -90283 16272 -90275 16264 -90275)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_58" 126 16268 -90279))
+(line 255
+  (data 24001 -144235 23999 -144235)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_59" 126 24001 -144235))
+(polygon 255
+  (data 23997 -144239 24005 -144239 24005 -144231 23997 -144231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_59" 126 24001 -144235))
+(line 255
+  (data 24001 -142771 23999 -142771)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_60" 126 24001 -142771))
+(polygon 255
+  (data 23997 -142775 24005 -142775 24005 -142767 23997 -142767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_60" 126 24001 -142771))
+(line 255
+  (data 24001 -84012 24000 -84012)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_61" 126 24001 -84012))
+(polygon 255
+  (data 23997 -84016 24005 -84016 24005 -84008 23997 -84008)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_61" 126 24001 -84012))
+(line 255
+  (data 24001 -82548 24000 -82548)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_62" 126 24001 -82548))
+(polygon 255
+  (data 23997 -82552 24005 -82552 24005 -82544 23997 -82544)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_62" 126 24001 -82548))
+(line 255
+  (data 31732 -136502 31732 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_63" 126 31732 -136502))
+(polygon 255
+  (data 31728 -136506 31736 -136506 31736 -136498 31728 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_63" 126 31732 -136502))
+(line 255
+  (data 30268 -136502 30268 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_64" 126 30268 -136502))
+(polygon 255
+  (data 30264 -136506 30272 -136506 30272 -136498 30264 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_64" 126 30268 -136502))
+(line 255
+  (data 30268 -111071 30268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_65" 126 30268 -111071))
+(polygon 255
+  (data 30264 -111075 30272 -111075 30272 -111067 30264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_65" 126 30268 -111071))
+(line 255
+  (data 31732 -111071 31732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_66" 126 31732 -111071))
+(polygon 255
+  (data 31728 -111075 31736 -111075 31736 -111067 31728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_66" 126 31732 -111071))
+(line 255
+  (data 38001 -104802 37999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_67" 126 38001 -104802))
+(polygon 255
+  (data 37997 -104806 38005 -104806 38005 -104798 37997 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_67" 126 38001 -104802))
+(line 255
+  (data 38001 -103338 37999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_68" 126 38001 -103338))
+(polygon 255
+  (data 37997 -103342 38005 -103342 38005 -103334 37997 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_68" 126 38001 -103338))
+(line 255
+  (data 45732 -136502 45732 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_69" 126 45732 -136502))
+(polygon 255
+  (data 45728 -136506 45736 -136506 45736 -136498 45728 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_69" 126 45732 -136502))
+(line 255
+  (data 44268 -136502 44268 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_70" 126 44268 -136502))
+(polygon 255
+  (data 44264 -136506 44272 -136506 44272 -136498 44264 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_70" 126 44268 -136502))
+(line 255
+  (data 44268 -111071 44268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_71" 126 44268 -111071))
+(polygon 255
+  (data 44264 -111075 44272 -111075 44272 -111067 44264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_71" 126 44268 -111071))
+(line 255
+  (data 45732 -111071 45732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_72" 126 45732 -111071))
+(polygon 255
+  (data 45728 -111075 45736 -111075 45736 -111067 45728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_72" 126 45732 -111071))
+(line 255
+  (data 52001 -144235 51999 -144235)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_73" 126 52001 -144235))
+(polygon 255
+  (data 51997 -144239 52005 -144239 52005 -144231 51997 -144231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_73" 126 52001 -144235))
+(line 255
+  (data 52001 -142771 51999 -142771)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_74" 126 52001 -142771))
+(polygon 255
+  (data 51997 -142775 52005 -142775 52005 -142767 51997 -142767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_74" 126 52001 -142771))
+(line 255
+  (data 59732 -136502 59732 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_75" 126 59732 -136502))
+(polygon 255
+  (data 59728 -136506 59736 -136506 59736 -136498 59728 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_75" 126 59732 -136502))
+(line 255
+  (data 58268 -136502 58268 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_76" 126 58268 -136502))
+(polygon 255
+  (data 58264 -136506 58272 -136506 58272 -136498 58264 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_76" 126 58268 -136502))
+(line 255
+  (data 58268 -111071 58268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_77" 126 58268 -111071))
+(polygon 255
+  (data 58264 -111075 58272 -111075 58272 -111067 58264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_77" 126 58268 -111071))
+(line 255
+  (data 59732 -111071 59732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_78" 126 59732 -111071))
+(polygon 255
+  (data 59728 -111075 59736 -111075 59736 -111067 59728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_78" 126 59732 -111071))
+(line 255
+  (data 65000 3868 64999 3868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_79" 126 65000 3868))
+(polygon 255
+  (data 64996 3864 65004 3864 65004 3872 64996 3872)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_79" 126 65000 3868))
+(line 255
+  (data 65000 5332 64999 5332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_80" 126 65000 5332))
+(polygon 255
+  (data 64996 5328 65004 5328 65004 5336 64996 5336)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_80" 126 65000 5332))
+(line 255
+  (data 65000 10868 64999 10868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_81" 126 65000 10868))
+(polygon 255
+  (data 64996 10864 65004 10864 65004 10872 64996 10872)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_81" 126 65000 10868))
+(line 255
+  (data 65000 12332 64999 12332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_82" 126 65000 12332))
+(polygon 255
+  (data 64996 12328 65004 12328 65004 12336 64996 12336)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_82" 126 65000 12332))
+(line 255
+  (data 66000 64668 65999 64668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_83" 126 66000 64668))
+(polygon 255
+  (data 65996 64664 66004 64664 66004 64672 65996 64672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_83" 126 66000 64668))
+(line 255
+  (data 66000 66132 65999 66132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_84" 126 66000 66132))
+(polygon 255
+  (data 65996 66128 66004 66128 66004 66136 65996 66136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_84" 126 66000 66132))
+(line 255
+  (data 66000 71668 65999 71668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_85" 126 66000 71668))
+(polygon 255
+  (data 65996 71664 66004 71664 66004 71672 65996 71672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_85" 126 66000 71668))
+(line 255
+  (data 66000 73132 65999 73132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_86" 126 66000 73132))
+(polygon 255
+  (data 65996 73128 66004 73128 66004 73136 65996 73136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_86" 126 66000 73132))
+(line 255
+  (data 66001 -104802 65999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_87" 126 66001 -104802))
+(polygon 255
+  (data 65997 -104806 66005 -104806 66005 -104798 65997 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_87" 126 66001 -104802))
+(line 255
+  (data 66001 -103338 65999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_88" 126 66001 -103338))
+(polygon 255
+  (data 65997 -103342 66005 -103342 66005 -103334 65997 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_88" 126 66001 -103338))
+(line 255
+  (data 72732 -13649 72732 -13650)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_89" 126 72732 -13649))
+(polygon 255
+  (data 72728 -13653 72736 -13653 72736 -13645 72728 -13645)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_89" 126 72732 -13649))
+(line 255
+  (data 71268 -13649 71268 -13650)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_90" 126 71268 -13649))
+(polygon 255
+  (data 71264 -13653 71272 -13653 71272 -13645 71264 -13645)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_90" 126 71268 -13649))
+(line 255
+  (data 71268 -2401 71268 -2400)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_91" 126 71268 -2401))
+(polygon 255
+  (data 71264 -2405 71272 -2405 71272 -2397 71264 -2397)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_91" 126 71268 -2401))
+(line 255
+  (data 72732 -2401 72732 -2400)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_92" 126 72732 -2401))
+(polygon 255
+  (data 72728 -2405 72736 -2405 72736 -2397 72728 -2397)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_92" 126 72732 -2401))
+(line 255
+  (data 72732 18601 72732 18599)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_93" 126 72732 18601))
+(polygon 255
+  (data 72728 18597 72736 18597 72736 18605 72728 18605)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_93" 126 72732 18601))
+(line 255
+  (data 71268 18601 71268 18599)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_94" 126 71268 18601))
+(polygon 255
+  (data 71264 18597 71272 18597 71272 18605 71264 18605)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_94" 126 71268 18601))
+(line 255
+  (data 73732 -136502 73732 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_95" 126 73732 -136502))
+(polygon 255
+  (data 73728 -136506 73736 -136506 73736 -136498 73728 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_95" 126 73732 -136502))
+(line 255
+  (data 72268 -136502 72268 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_96" 126 72268 -136502))
+(polygon 255
+  (data 72264 -136506 72272 -136506 72272 -136498 72264 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_96" 126 72268 -136502))
+(line 255
+  (data 72268 -111071 72268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_97" 126 72268 -111071))
+(polygon 255
+  (data 72264 -111075 72272 -111075 72272 -111067 72264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_97" 126 72268 -111071))
+(line 255
+  (data 73732 -111071 73732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_98" 126 73732 -111071))
+(polygon 255
+  (data 73728 -111075 73736 -111075 73736 -111067 73728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_98" 126 73732 -111071))
+(line 255
+  (data 73732 55601 73732 55600)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_99" 126 73732 55601))
+(polygon 255
+  (data 73728 55597 73736 55597 73736 55605 73728 55605)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_99" 126 73732 55601))
+(line 255
+  (data 72268 55601 72268 55600)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_100" 126 72268 55601))
+(polygon 255
+  (data 72264 55597 72272 55597 72272 55605 72264 55605)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_100" 126 72268 55601))
+(line 255
+  (data 72268 58399 72268 58400)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_101" 126 72268 58399))
+(polygon 255
+  (data 72264 58395 72272 58395 72272 58403 72264 58403)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_101" 126 72268 58399))
+(line 255
+  (data 73732 58399 73732 58400)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_102" 126 73732 58399))
+(polygon 255
+  (data 73728 58395 73736 58395 73736 58403 73728 58403)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_102" 126 73732 58399))
+(line 255
+  (data 73732 79401 73732 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_103" 126 73732 79401))
+(polygon 255
+  (data 73728 79397 73736 79397 73736 79405 73728 79405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_103" 126 73732 79401))
+(line 255
+  (data 72268 79401 72268 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_104" 126 72268 79401))
+(polygon 255
+  (data 72264 79397 72272 79397 72272 79405 72264 79405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_104" 126 72268 79401))
+(line 255
+  (data 79001 -21382 78999 -21382)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_105" 126 79001 -21382))
+(polygon 255
+  (data 78997 -21386 79005 -21386 79005 -21378 78997 -21378)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_105" 126 79001 -21382))
+(line 255
+  (data 79001 -19918 78999 -19918)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_106" 126 79001 -19918))
+(polygon 255
+  (data 78997 -19922 79005 -19922 79005 -19914 78997 -19914)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_106" 126 79001 -19918))
+(line 255
+  (data 79001 24868 78999 24868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_107" 126 79001 24868))
+(polygon 255
+  (data 78997 24864 79005 24864 79005 24872 78997 24872)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_107" 126 79001 24868))
+(line 255
+  (data 79001 26332 78999 26332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_108" 126 79001 26332))
+(polygon 255
+  (data 78997 26328 79005 26328 79005 26336 78997 26336)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_108" 126 79001 26332))
+(line 255
+  (data 79999 -82548 80000 -82548)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_109" 126 79999 -82548))
+(polygon 255
+  (data 79995 -82552 80003 -82552 80003 -82544 79995 -82544)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_109" 126 79999 -82548))
+(line 255
+  (data 79999 -84012 80000 -84012)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_110" 126 79999 -84012))
+(polygon 255
+  (data 79995 -84016 80003 -84016 80003 -84008 79995 -84008)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_110" 126 79999 -84012))
+(line 255
+  (data 80001 -144235 79999 -144235)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_111" 126 80001 -144235))
+(polygon 255
+  (data 79997 -144239 80005 -144239 80005 -144231 79997 -144231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_111" 126 80001 -144235))
+(line 255
+  (data 80001 -142771 79999 -142771)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_112" 126 80001 -142771))
+(polygon 255
+  (data 79997 -142775 80005 -142775 80005 -142767 79997 -142767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_112" 126 80001 -142771))
+(line 255
+  (data 80001 47868 79999 47868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_113" 126 80001 47868))
+(polygon 255
+  (data 79997 47864 80005 47864 80005 47872 79997 47872)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_113" 126 80001 47868))
+(line 255
+  (data 80001 49332 79999 49332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_114" 126 80001 49332))
+(polygon 255
+  (data 79997 49328 80005 49328 80005 49336 79997 49336)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_114" 126 80001 49332))
+(line 255
+  (data 80001 85668 79999 85668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_115" 126 80001 85668))
+(polygon 255
+  (data 79997 85664 80005 85664 80005 85672 79997 85672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_115" 126 80001 85668))
+(line 255
+  (data 80001 87132 79999 87132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_116" 126 80001 87132))
+(polygon 255
+  (data 79997 87128 80005 87128 80005 87136 79997 87136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_116" 126 80001 87132))
+(line 255
+  (data 86732 -13649 86732 -13650)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_117" 126 86732 -13649))
+(polygon 255
+  (data 86728 -13653 86736 -13653 86736 -13645 86728 -13645)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_117" 126 86732 -13649))
+(line 255
+  (data 85268 -13649 85268 -13650)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_118" 126 85268 -13649))
+(polygon 255
+  (data 85264 -13653 85272 -13653 85272 -13645 85264 -13645)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_118" 126 85268 -13649))
+(line 255
+  (data 85268 -2401 85268 -2400)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_119" 126 85268 -2401))
+(polygon 255
+  (data 85264 -2405 85272 -2405 85272 -2397 85264 -2397)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_119" 126 85268 -2401))
+(line 255
+  (data 86732 -2401 86732 -2400)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_120" 126 86732 -2401))
+(polygon 255
+  (data 86728 -2405 86736 -2405 86736 -2397 86728 -2397)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_120" 126 86732 -2401))
+(line 255
+  (data 86732 18601 86732 18599)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_121" 126 86732 18601))
+(polygon 255
+  (data 86728 18597 86736 18597 86736 18605 86728 18605)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_121" 126 86732 18601))
+(line 255
+  (data 85268 18601 85268 18599)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_122" 126 85268 18601))
+(polygon 255
+  (data 85264 18597 85272 18597 85272 18605 85264 18605)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_122" 126 85268 18601))
+(line 255
+  (data 87732 -136502 87732 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_123" 126 87732 -136502))
+(polygon 255
+  (data 87728 -136506 87736 -136506 87736 -136498 87728 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_123" 126 87732 -136502))
+(line 255
+  (data 86268 -136502 86268 -136503)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_124" 126 86268 -136502))
+(polygon 255
+  (data 86264 -136506 86272 -136506 86272 -136498 86264 -136498)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_124" 126 86268 -136502))
+(line 255
+  (data 86268 -111071 86268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_125" 126 86268 -111071))
+(polygon 255
+  (data 86264 -111075 86272 -111075 86272 -111067 86264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_125" 126 86268 -111071))
+(line 255
+  (data 87732 -111071 87732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_126" 126 87732 -111071))
+(polygon 255
+  (data 87728 -111075 87736 -111075 87736 -111067 87728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_126" 126 87732 -111071))
+(line 255
+  (data 87732 -90279 87732 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_127" 126 87732 -90279))
+(polygon 255
+  (data 87728 -90283 87736 -90283 87736 -90275 87728 -90275)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_127" 126 87732 -90279))
+(line 255
+  (data 86268 -90279 86268 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_128" 126 86268 -90279))
+(polygon 255
+  (data 86264 -90283 86272 -90283 86272 -90275 86264 -90275)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_128" 126 86268 -90279))
+(line 255
+  (data 87732 55601 87732 55600)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_129" 126 87732 55601))
+(polygon 255
+  (data 87728 55597 87736 55597 87736 55605 87728 55605)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_129" 126 87732 55601))
+(line 255
+  (data 86268 55601 86268 55600)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_130" 126 86268 55601))
+(polygon 255
+  (data 86264 55597 86272 55597 86272 55605 86264 55605)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_130" 126 86268 55601))
+(line 255
+  (data 86268 58399 86268 58400)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_131" 126 86268 58399))
+(polygon 255
+  (data 86264 58395 86272 58395 86272 58403 86264 58403)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_131" 126 86268 58399))
+(line 255
+  (data 87732 58399 87732 58400)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_132" 126 87732 58399))
+(polygon 255
+  (data 87728 58395 87736 58395 87736 58403 87728 58403)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_132" 126 87732 58399))
+(line 255
+  (data 87732 79401 87732 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_133" 126 87732 79401))
+(polygon 255
+  (data 87728 79397 87736 79397 87736 79405 87728 79405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_133" 126 87732 79401))
+(line 255
+  (data 86268 79401 86268 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_134" 126 86268 79401))
+(polygon 255
+  (data 86264 79397 86272 79397 86272 79405 86264 79405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_134" 126 86268 79401))
+(line 255
+  (data 93001 3868 93000 3868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_135" 126 93001 3868))
+(polygon 255
+  (data 92997 3864 93005 3864 93005 3872 92997 3872)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_135" 126 93001 3868))
+(line 255
+  (data 93001 5332 93000 5332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_136" 126 93001 5332))
+(polygon 255
+  (data 92997 5328 93005 5328 93005 5336 92997 5336)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_136" 126 93001 5332))
+(line 255
+  (data 93001 10868 93000 10868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_137" 126 93001 10868))
+(polygon 255
+  (data 92997 10864 93005 10864 93005 10872 92997 10872)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_137" 126 93001 10868))
+(line 255
+  (data 93001 12332 93000 12332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_138" 126 93001 12332))
+(polygon 255
+  (data 92997 12328 93005 12328 93005 12336 92997 12336)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_138" 126 93001 12332))
+(line 255
+  (data 94001 -104802 94000 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_139" 126 94001 -104802))
+(polygon 255
+  (data 93997 -104806 94005 -104806 94005 -104798 93997 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_139" 126 94001 -104802))
+(line 255
+  (data 94001 -103338 94000 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_140" 126 94001 -103338))
+(polygon 255
+  (data 93997 -103342 94005 -103342 94005 -103334 93997 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_140" 126 94001 -103338))
+(line 255
+  (data 94001 -98012 94000 -98012)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_141" 126 94001 -98012))
+(polygon 255
+  (data 93997 -98016 94005 -98016 94005 -98008 93997 -98008)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_141" 126 94001 -98012))
+(line 255
+  (data 94001 -96548 94000 -96548)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_142" 126 94001 -96548))
+(polygon 255
+  (data 93997 -96552 94005 -96552 94005 -96544 93997 -96544)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_142" 126 94001 -96548))
+(line 255
+  (data 94001 64668 94000 64668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_143" 126 94001 64668))
+(polygon 255
+  (data 93997 64664 94005 64664 94005 64672 93997 64672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_143" 126 94001 64668))
+(line 255
+  (data 94001 66132 94000 66132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_144" 126 94001 66132))
+(polygon 255
+  (data 93997 66128 94005 66128 94005 66136 93997 66136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_144" 126 94001 66132))
+(line 255
+  (data 94001 71668 94000 71668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_145" 126 94001 71668))
+(polygon 255
+  (data 93997 71664 94005 71664 94005 71672 93997 71672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_145" 126 94001 71668))
+(line 255
+  (data 94001 73132 94000 73132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_146" 126 94001 73132))
+(polygon 255
+  (data 93997 73128 94005 73128 94005 73136 93997 73136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_146" 126 94001 73132))
+(line 255
+  (data 135000 39738 134999 39738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_147" 126 135000 39738))
+(polygon 255
+  (data 134996 39734 135004 39734 135004 39742 134996 39742)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_147" 126 135000 39738))
+(line 255
+  (data 135000 41202 134999 41202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_148" 126 135000 41202))
+(polygon 255
+  (data 134996 41198 135004 41198 135004 41206 134996 41206)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_148" 126 135000 41202))
+(line 255
+  (data 135000 46668 134999 46668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_149" 126 135000 46668))
+(polygon 255
+  (data 134996 46664 135004 46664 135004 46672 134996 46672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_149" 126 135000 46668))
+(line 255
+  (data 135000 48132 134999 48132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_150" 126 135000 48132))
+(polygon 255
+  (data 134996 48128 135004 48128 135004 48136 134996 48136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_150" 126 135000 48132))
+(line 255
+  (data 142732 25721 142732 25720)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_151" 126 142732 25721))
+(polygon 255
+  (data 142728 25717 142736 25717 142736 25725 142728 25725)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_151" 126 142732 25721))
+(line 255
+  (data 141268 25721 141268 25720)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_152" 126 141268 25721))
+(polygon 255
+  (data 141264 25717 141272 25717 141272 25725 141264 25725)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_152" 126 141268 25721))
+(line 255
+  (data 141268 33469 141268 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_153" 126 141268 33469))
+(polygon 255
+  (data 141264 33465 141272 33465 141272 33473 141264 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_153" 126 141268 33469))
+(line 255
+  (data 142732 33469 142732 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_154" 126 142732 33469))
+(polygon 255
+  (data 142728 33465 142736 33465 142736 33473 142728 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_154" 126 142732 33469))
+(line 255
+  (data 142732 54401 142732 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_155" 126 142732 54401))
+(polygon 255
+  (data 142728 54397 142736 54397 142736 54405 142728 54405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_155" 126 142732 54401))
+(line 255
+  (data 141268 54401 141268 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_156" 126 141268 54401))
+(polygon 255
+  (data 141264 54397 141272 54397 141272 54405 141264 54405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_156" 126 141268 54401))
+(line 255
+  (data 146000 -104802 145999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_157" 126 146000 -104802))
+(polygon 255
+  (data 145996 -104806 146004 -104806 146004 -104798 145996 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_157" 126 146000 -104802))
+(line 255
+  (data 146000 -103338 145999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_158" 126 146000 -103338))
+(polygon 255
+  (data 145996 -103342 146004 -103342 146004 -103334 145996 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_158" 126 146000 -103338))
+(line 255
+  (data 146000 -98012 145999 -98012)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_159" 126 146000 -98012))
+(polygon 255
+  (data 145996 -98016 146004 -98016 146004 -98008 145996 -98008)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_159" 126 146000 -98012))
+(line 255
+  (data 146000 -96548 145999 -96548)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_160" 126 146000 -96548))
+(polygon 255
+  (data 145996 -96552 146004 -96552 146004 -96544 145996 -96544)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_160" 126 146000 -96548))
+(line 255
+  (data 149001 17988 148999 17988)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_161" 126 149001 17988))
+(polygon 255
+  (data 148997 17984 149005 17984 149005 17992 148997 17992)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_161" 126 149001 17988))
+(line 255
+  (data 149001 19452 148999 19452)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_162" 126 149001 19452))
+(polygon 255
+  (data 148997 19448 149005 19448 149005 19456 148997 19456)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_162" 126 149001 19452))
+(line 255
+  (data 149001 60668 149000 60668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_163" 126 149001 60668))
+(polygon 255
+  (data 148997 60664 149005 60664 149005 60672 148997 60672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_163" 126 149001 60668))
+(line 255
+  (data 149001 62132 149000 62132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_164" 126 149001 62132))
+(polygon 255
+  (data 148997 62128 149005 62128 149005 62136 148997 62136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_164" 126 149001 62132))
+(line 255
+  (data 153732 -166469 153732 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_165" 126 153732 -166469))
+(polygon 255
+  (data 153728 -166473 153736 -166473 153736 -166465 153728 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_165" 126 153732 -166469))
+(line 255
+  (data 152268 -166469 152268 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_166" 126 152268 -166469))
+(polygon 255
+  (data 152264 -166473 152272 -166473 152272 -166465 152264 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_166" 126 152268 -166469))
+(line 255
+  (data 152268 -111071 152268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_167" 126 152268 -111071))
+(polygon 255
+  (data 152264 -111075 152272 -111075 152272 -111067 152264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_167" 126 152268 -111071))
+(line 255
+  (data 153732 -111071 153732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_168" 126 153732 -111071))
+(polygon 255
+  (data 153728 -111075 153736 -111075 153736 -111067 153728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_168" 126 153732 -111071))
+(line 255
+  (data 153732 -90279 153732 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_169" 126 153732 -90279))
+(polygon 255
+  (data 153728 -90283 153736 -90283 153736 -90275 153728 -90275)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_169" 126 153732 -90279))
+(line 255
+  (data 152268 -90279 152268 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_170" 126 152268 -90279))
+(polygon 255
+  (data 152264 -90283 152272 -90283 152272 -90275 152264 -90275)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_170" 126 152268 -90279))
+(line 255
+  (data 156732 25721 156732 25720)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_171" 126 156732 25721))
+(polygon 255
+  (data 156728 25717 156736 25717 156736 25725 156728 25725)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_171" 126 156732 25721))
+(line 255
+  (data 155268 25721 155268 25720)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_172" 126 155268 25721))
+(polygon 255
+  (data 155264 25717 155272 25717 155272 25725 155264 25725)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_172" 126 155268 25721))
+(line 255
+  (data 155268 33469 155268 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_173" 126 155268 33469))
+(polygon 255
+  (data 155264 33465 155272 33465 155272 33473 155264 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_173" 126 155268 33469))
+(line 255
+  (data 156732 33469 156732 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_174" 126 156732 33469))
+(polygon 255
+  (data 156728 33465 156736 33465 156736 33473 156728 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_174" 126 156732 33469))
+(line 255
+  (data 160001 -174202 159999 -174202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_175" 126 160001 -174202))
+(polygon 255
+  (data 159997 -174206 160005 -174206 160005 -174198 159997 -174198)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_175" 126 160001 -174202))
+(line 255
+  (data 160001 -172738 159999 -172738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_176" 126 160001 -172738))
+(polygon 255
+  (data 159997 -172742 160005 -172742 160005 -172734 159997 -172734)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_176" 126 160001 -172738))
+(line 255
+  (data 160001 -84012 160000 -84012)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_177" 126 160001 -84012))
+(polygon 255
+  (data 159997 -84016 160005 -84016 160005 -84008 159997 -84008)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_177" 126 160001 -84012))
+(line 255
+  (data 160001 -82548 160000 -82548)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_178" 126 160001 -82548))
+(polygon 255
+  (data 159997 -82552 160005 -82552 160005 -82544 159997 -82544)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_178" 126 160001 -82548))
+(line 255
+  (data 163001 39738 162999 39738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_179" 126 163001 39738))
+(polygon 255
+  (data 162997 39734 163005 39734 163005 39742 162997 39742)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_179" 126 163001 39738))
+(line 255
+  (data 163001 41202 162999 41202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_180" 126 163001 41202))
+(polygon 255
+  (data 162997 41198 163005 41198 163005 41206 162997 41206)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_180" 126 163001 41202))
+(line 255
+  (data 167732 -166469 167732 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_181" 126 167732 -166469))
+(polygon 255
+  (data 167728 -166473 167736 -166473 167736 -166465 167728 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_181" 126 167732 -166469))
+(line 255
+  (data 166268 -166469 166268 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_182" 126 166268 -166469))
+(polygon 255
+  (data 166264 -166473 166272 -166473 166272 -166465 166264 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_182" 126 166268 -166469))
+(line 255
+  (data 166268 -111071 166268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_183" 126 166268 -111071))
+(polygon 255
+  (data 166264 -111075 166272 -111075 166272 -111067 166264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_183" 126 166268 -111071))
+(line 255
+  (data 167732 -111071 167732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_184" 126 167732 -111071))
+(polygon 255
+  (data 167728 -111075 167736 -111075 167736 -111067 167728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_184" 126 167732 -111071))
+(line 255
+  (data 170732 25721 170732 25720)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_185" 126 170732 25721))
+(polygon 255
+  (data 170728 25717 170736 25717 170736 25725 170728 25725)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_185" 126 170732 25721))
+(line 255
+  (data 169268 25721 169268 25720)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_186" 126 169268 25721))
+(polygon 255
+  (data 169264 25717 169272 25717 169272 25725 169264 25725)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_186" 126 169268 25721))
+(line 255
+  (data 169268 33469 169268 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_187" 126 169268 33469))
+(polygon 255
+  (data 169264 33465 169272 33465 169272 33473 169264 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_187" 126 169268 33469))
+(line 255
+  (data 170732 33469 170732 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_188" 126 170732 33469))
+(polygon 255
+  (data 170728 33465 170736 33465 170736 33473 170728 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_188" 126 170732 33469))
+(line 255
+  (data 174001 -104802 173999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_189" 126 174001 -104802))
+(polygon 255
+  (data 173997 -104806 174005 -104806 174005 -104798 173997 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_189" 126 174001 -104802))
+(line 255
+  (data 174001 -103338 173999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_190" 126 174001 -103338))
+(polygon 255
+  (data 173997 -103342 174005 -103342 174005 -103334 173997 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_190" 126 174001 -103338))
+(line 255
+  (data 176999 62132 177000 62132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_191" 126 176999 62132))
+(polygon 255
+  (data 176995 62128 177003 62128 177003 62136 176995 62136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_191" 126 176999 62132))
+(line 255
+  (data 176999 60668 177000 60668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_192" 126 176999 60668))
+(polygon 255
+  (data 176995 60664 177003 60664 177003 60672 176995 60672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_192" 126 176999 60668))
+(line 255
+  (data 177001 17988 176999 17988)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_193" 126 177001 17988))
+(polygon 255
+  (data 176997 17984 177005 17984 177005 17992 176997 17992)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_193" 126 177001 17988))
+(line 255
+  (data 177001 19452 176999 19452)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_194" 126 177001 19452))
+(polygon 255
+  (data 176997 19448 177005 19448 177005 19456 176997 19456)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_194" 126 177001 19452))
+(line 255
+  (data 181732 -166469 181732 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_195" 126 181732 -166469))
+(polygon 255
+  (data 181728 -166473 181736 -166473 181736 -166465 181728 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_195" 126 181732 -166469))
+(line 255
+  (data 180268 -166469 180268 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_196" 126 180268 -166469))
+(polygon 255
+  (data 180264 -166473 180272 -166473 180272 -166465 180264 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_196" 126 180268 -166469))
+(line 255
+  (data 180268 -111071 180268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_197" 126 180268 -111071))
+(polygon 255
+  (data 180264 -111075 180272 -111075 180272 -111067 180264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_197" 126 180268 -111071))
+(line 255
+  (data 181732 -111071 181732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_198" 126 181732 -111071))
+(polygon 255
+  (data 181728 -111075 181736 -111075 181736 -111067 181728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_198" 126 181732 -111071))
+(line 255
+  (data 184732 25721 184732 25720)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_199" 126 184732 25721))
+(polygon 255
+  (data 184728 25717 184736 25717 184736 25725 184728 25725)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_199" 126 184732 25721))
+(line 255
+  (data 183268 25721 183268 25720)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_200" 126 183268 25721))
+(polygon 255
+  (data 183264 25717 183272 25717 183272 25725 183264 25725)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_200" 126 183268 25721))
+(line 255
+  (data 183268 33469 183268 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_201" 126 183268 33469))
+(polygon 255
+  (data 183264 33465 183272 33465 183272 33473 183264 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_201" 126 183268 33469))
+(line 255
+  (data 184732 33469 184732 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_202" 126 184732 33469))
+(polygon 255
+  (data 184728 33465 184736 33465 184736 33473 184728 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_202" 126 184732 33469))
+(line 255
+  (data 184732 54401 184732 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_203" 126 184732 54401))
+(polygon 255
+  (data 184728 54397 184736 54397 184736 54405 184728 54405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_203" 126 184732 54401))
+(line 255
+  (data 183268 54401 183268 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_204" 126 183268 54401))
+(polygon 255
+  (data 183264 54397 183272 54397 183272 54405 183264 54405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_204" 126 183268 54401))
+(line 255
+  (data 188001 -174202 187999 -174202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_205" 126 188001 -174202))
+(polygon 255
+  (data 187997 -174206 188005 -174206 188005 -174198 187997 -174198)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_205" 126 188001 -174202))
+(line 255
+  (data 188001 -172738 187999 -172738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_206" 126 188001 -172738))
+(polygon 255
+  (data 187997 -172742 188005 -172742 188005 -172734 187997 -172734)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_206" 126 188001 -172738))
+(line 255
+  (data 191001 39738 191000 39738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_207" 126 191001 39738))
+(polygon 255
+  (data 190997 39734 191005 39734 191005 39742 190997 39742)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_207" 126 191001 39738))
+(line 255
+  (data 191001 41202 191000 41202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_208" 126 191001 41202))
+(polygon 255
+  (data 190997 41198 191005 41198 191005 41206 190997 41206)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_208" 126 191001 41202))
+(line 255
+  (data 191001 46668 191000 46668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_209" 126 191001 46668))
+(polygon 255
+  (data 190997 46664 191005 46664 191005 46672 190997 46672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_209" 126 191001 46668))
+(line 255
+  (data 191001 48132 191000 48132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_210" 126 191001 48132))
+(polygon 255
+  (data 190997 48128 191005 48128 191005 48136 190997 48136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_210" 126 191001 48132))
+(line 255
+  (data 195732 -166469 195732 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_211" 126 195732 -166469))
+(polygon 255
+  (data 195728 -166473 195736 -166473 195736 -166465 195728 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_211" 126 195732 -166469))
+(line 255
+  (data 194268 -166469 194268 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_212" 126 194268 -166469))
+(polygon 255
+  (data 194264 -166473 194272 -166473 194272 -166465 194264 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_212" 126 194268 -166469))
+(line 255
+  (data 194268 -111071 194268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_213" 126 194268 -111071))
+(polygon 255
+  (data 194264 -111075 194272 -111075 194272 -111067 194264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_213" 126 194268 -111071))
+(line 255
+  (data 195732 -111071 195732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_214" 126 195732 -111071))
+(polygon 255
+  (data 195728 -111075 195736 -111075 195736 -111067 195728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_214" 126 195732 -111071))
+(line 255
+  (data 202001 -104802 201999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_215" 126 202001 -104802))
+(polygon 255
+  (data 201997 -104806 202005 -104806 202005 -104798 201997 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_215" 126 202001 -104802))
+(line 255
+  (data 202001 -103338 201999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_216" 126 202001 -103338))
+(polygon 255
+  (data 201997 -103342 202005 -103342 202005 -103334 201997 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_216" 126 202001 -103338))
+(line 255
+  (data 209732 -166469 209732 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_217" 126 209732 -166469))
+(polygon 255
+  (data 209728 -166473 209736 -166473 209736 -166465 209728 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_217" 126 209732 -166469))
+(line 255
+  (data 208268 -166469 208268 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_218" 126 208268 -166469))
+(polygon 255
+  (data 208264 -166473 208272 -166473 208272 -166465 208264 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_218" 126 208268 -166469))
+(line 255
+  (data 208268 -111071 208268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_219" 126 208268 -111071))
+(polygon 255
+  (data 208264 -111075 208272 -111075 208272 -111067 208264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_219" 126 208268 -111071))
+(line 255
+  (data 209732 -111071 209732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_220" 126 209732 -111071))
+(polygon 255
+  (data 209728 -111075 209736 -111075 209736 -111067 209728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_220" 126 209732 -111071))
+(line 255
+  (data 215999 -82548 216000 -82548)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_221" 126 215999 -82548))
+(polygon 255
+  (data 215995 -82552 216003 -82552 216003 -82544 215995 -82544)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_221" 126 215999 -82548))
+(line 255
+  (data 215999 -84012 216000 -84012)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_222" 126 215999 -84012))
+(polygon 255
+  (data 215995 -84016 216003 -84016 216003 -84008 215995 -84008)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_222" 126 215999 -84012))
+(line 255
+  (data 216001 -174202 215999 -174202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_223" 126 216001 -174202))
+(polygon 255
+  (data 215997 -174206 216005 -174206 216005 -174198 215997 -174198)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_223" 126 216001 -174202))
+(line 255
+  (data 216001 -172738 215999 -172738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_224" 126 216001 -172738))
+(polygon 255
+  (data 215997 -172742 216005 -172742 216005 -172734 215997 -172734)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_224" 126 216001 -172738))
+(line 255
+  (data 223732 -166469 223732 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_225" 126 223732 -166469))
+(polygon 255
+  (data 223728 -166473 223736 -166473 223736 -166465 223728 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_225" 126 223732 -166469))
+(line 255
+  (data 222268 -166469 222268 -166470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_226" 126 222268 -166469))
+(polygon 255
+  (data 222264 -166473 222272 -166473 222272 -166465 222264 -166465)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_226" 126 222268 -166469))
+(line 255
+  (data 222268 -111071 222268 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_227" 126 222268 -111071))
+(polygon 255
+  (data 222264 -111075 222272 -111075 222272 -111067 222264 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_227" 126 222268 -111071))
+(line 255
+  (data 223732 -111071 223732 -111070)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_228" 126 223732 -111071))
+(polygon 255
+  (data 223728 -111075 223736 -111075 223736 -111067 223728 -111067)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_228" 126 223732 -111071))
+(line 255
+  (data 223732 -90279 223732 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_229" 126 223732 -90279))
+(polygon 255
+  (data 223728 -90283 223736 -90283 223736 -90275 223728 -90275)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_229" 126 223732 -90279))
+(line 255
+  (data 222268 -90279 222268 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_230" 126 222268 -90279))
+(polygon 255
+  (data 222264 -90283 222272 -90283 222272 -90275 222264 -90275)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_230" 126 222268 -90279))
+(line 255
+  (data 230001 -104802 230000 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_231" 126 230001 -104802))
+(polygon 255
+  (data 229997 -104806 230005 -104806 230005 -104798 229997 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_231" 126 230001 -104802))
+(line 255
+  (data 230001 -103338 230000 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_232" 126 230001 -103338))
+(polygon 255
+  (data 229997 -103342 230005 -103342 230005 -103334 229997 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_232" 126 230001 -103338))
+(line 255
+  (data 230001 -98012 230000 -98012)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_233" 126 230001 -98012))
+(polygon 255
+  (data 229997 -98016 230005 -98016 230005 -98008 229997 -98008)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_233" 126 230001 -98012))
+(line 255
+  (data 230001 -96548 230000 -96548)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_234" 126 230001 -96548))
+(polygon 255
+  (data 229997 -96552 230005 -96552 230005 -96544 229997 -96544)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_234" 126 230001 -96548))
+(line 255
+  (data 243000 39738 242999 39738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_235" 126 243000 39738))
+(polygon 255
+  (data 242996 39734 243004 39734 243004 39742 242996 39742)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_235" 126 243000 39738))
+(line 255
+  (data 243000 41202 242999 41202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_236" 126 243000 41202))
+(polygon 255
+  (data 242996 41198 243004 41198 243004 41206 242996 41206)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_236" 126 243000 41202))
+(line 255
+  (data 243000 46668 242999 46668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_237" 126 243000 46668))
+(polygon 255
+  (data 242996 46664 243004 46664 243004 46672 242996 46672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_237" 126 243000 46668))
+(line 255
+  (data 243000 48132 242999 48132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_238" 126 243000 48132))
+(polygon 255
+  (data 242996 48128 243004 48128 243004 48136 242996 48136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_238" 126 243000 48132))
+(line 255
+  (data 250732 14496 250732 14495)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_239" 126 250732 14496))
+(polygon 255
+  (data 250728 14492 250736 14492 250736 14500 250728 14500)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_239" 126 250732 14496))
+(line 255
+  (data 249268 14496 249268 14495)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_240" 126 249268 14496))
+(polygon 255
+  (data 249264 14492 249272 14492 249272 14500 249264 14500)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_240" 126 249268 14496))
+(line 255
+  (data 249268 33469 249268 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_241" 126 249268 33469))
+(polygon 255
+  (data 249264 33465 249272 33465 249272 33473 249264 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_241" 126 249268 33469))
+(line 255
+  (data 250732 33469 250732 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_242" 126 250732 33469))
+(polygon 255
+  (data 250728 33465 250736 33465 250736 33473 250728 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_242" 126 250732 33469))
+(line 255
+  (data 250732 54401 250732 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_243" 126 250732 54401))
+(polygon 255
+  (data 250728 54397 250736 54397 250736 54405 250728 54405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_243" 126 250732 54401))
+(line 255
+  (data 249268 54401 249268 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_244" 126 249268 54401))
+(polygon 255
+  (data 249264 54397 249272 54397 249272 54405 249264 54405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_244" 126 249268 54401))
+(line 255
+  (data 257001 6763 256999 6763)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_245" 126 257001 6763))
+(polygon 255
+  (data 256997 6759 257005 6759 257005 6767 256997 6767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_245" 126 257001 6763))
+(line 255
+  (data 257001 8227 256999 8227)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_246" 126 257001 8227))
+(polygon 255
+  (data 256997 8223 257005 8223 257005 8231 256997 8231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_246" 126 257001 8227))
+(line 255
+  (data 257001 60668 257000 60668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_247" 126 257001 60668))
+(polygon 255
+  (data 256997 60664 257005 60664 257005 60672 256997 60672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_247" 126 257001 60668))
+(line 255
+  (data 257001 62132 257000 62132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_248" 126 257001 62132))
+(polygon 255
+  (data 256997 62128 257005 62128 257005 62136 256997 62136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_248" 126 257001 62132))
+(line 255
+  (data 264732 14496 264732 14495)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_249" 126 264732 14496))
+(polygon 255
+  (data 264728 14492 264736 14492 264736 14500 264728 14500)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_249" 126 264732 14496))
+(line 255
+  (data 263268 14496 263268 14495)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_250" 126 263268 14496))
+(polygon 255
+  (data 263264 14492 263272 14492 263272 14500 263264 14500)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_250" 126 263268 14496))
+(line 255
+  (data 263268 33469 263268 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_251" 126 263268 33469))
+(polygon 255
+  (data 263264 33465 263272 33465 263272 33473 263264 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_251" 126 263268 33469))
+(line 255
+  (data 264732 33469 264732 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_252" 126 264732 33469))
+(polygon 255
+  (data 264728 33465 264736 33465 264736 33473 264728 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_252" 126 264732 33469))
+(line 255
+  (data 271001 39738 270999 39738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_253" 126 271001 39738))
+(polygon 255
+  (data 270997 39734 271005 39734 271005 39742 270997 39742)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_253" 126 271001 39738))
+(line 255
+  (data 271001 41202 270999 41202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_254" 126 271001 41202))
+(polygon 255
+  (data 270997 41198 271005 41198 271005 41206 270997 41206)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_254" 126 271001 41202))
+(line 255
+  (data 278732 14496 278732 14495)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_255" 126 278732 14496))
+(polygon 255
+  (data 278728 14492 278736 14492 278736 14500 278728 14500)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_255" 126 278732 14496))
+(line 255
+  (data 277268 14496 277268 14495)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_256" 126 277268 14496))
+(polygon 255
+  (data 277264 14492 277272 14492 277272 14500 277264 14500)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_256" 126 277268 14496))
+(line 255
+  (data 277268 33469 277268 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_257" 126 277268 33469))
+(polygon 255
+  (data 277264 33465 277272 33465 277272 33473 277264 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_257" 126 277268 33469))
+(line 255
+  (data 278732 33469 278732 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_258" 126 278732 33469))
+(polygon 255
+  (data 278728 33465 278736 33465 278736 33473 278728 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_258" 126 278732 33469))
+(line 255
+  (data 284999 62132 285000 62132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_259" 126 284999 62132))
+(polygon 255
+  (data 284995 62128 285003 62128 285003 62136 284995 62136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_259" 126 284999 62132))
+(line 255
+  (data 284999 60668 285000 60668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_260" 126 284999 60668))
+(polygon 255
+  (data 284995 60664 285003 60664 285003 60672 284995 60672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_260" 126 284999 60668))
+(line 255
+  (data 285001 6763 284999 6763)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_261" 126 285001 6763))
+(polygon 255
+  (data 284997 6759 285005 6759 285005 6767 284997 6767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_261" 126 285001 6763))
+(line 255
+  (data 285001 8227 284999 8227)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_262" 126 285001 8227))
+(polygon 255
+  (data 284997 8223 285005 8223 285005 8231 284997 8231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_262" 126 285001 8227))
+(line 255
+  (data 292732 14496 292732 14495)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_263" 126 292732 14496))
+(polygon 255
+  (data 292728 14492 292736 14492 292736 14500 292728 14500)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_263" 126 292732 14496))
+(line 255
+  (data 291268 14496 291268 14495)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_264" 126 291268 14496))
+(polygon 255
+  (data 291264 14492 291272 14492 291272 14500 291264 14500)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_264" 126 291268 14496))
+(line 255
+  (data 291268 33469 291268 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_265" 126 291268 33469))
+(polygon 255
+  (data 291264 33465 291272 33465 291272 33473 291264 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_265" 126 291268 33469))
+(line 255
+  (data 292732 33469 292732 33470)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_266" 126 292732 33469))
+(polygon 255
+  (data 292728 33465 292736 33465 292736 33473 292728 33473)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_266" 126 292732 33469))
+(line 255
+  (data 292732 54401 292732 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_267" 126 292732 54401))
+(polygon 255
+  (data 292728 54397 292736 54397 292736 54405 292728 54405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_267" 126 292732 54401))
+(line 255
+  (data 291268 54401 291268 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_268" 126 291268 54401))
+(polygon 255
+  (data 291264 54397 291272 54397 291272 54405 291264 54405)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_268" 126 291268 54401))
+(line 255
+  (data 299001 39738 299000 39738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_269" 126 299001 39738))
+(polygon 255
+  (data 298997 39734 299005 39734 299005 39742 298997 39742)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_269" 126 299001 39738))
+(line 255
+  (data 299001 41202 299000 41202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_270" 126 299001 41202))
+(polygon 255
+  (data 298997 41198 299005 41198 299005 41206 298997 41206)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_270" 126 299001 41202))
+(line 255
+  (data 299001 46668 299000 46668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_271" 126 299001 46668))
+(polygon 255
+  (data 298997 46664 299005 46664 299005 46672 298997 46672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_271" 126 299001 46668))
+(line 255
+  (data 299001 48132 299000 48132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_272" 126 299001 48132))
+(polygon 255
+  (data 298997 48128 299005 48128 299005 48136 298997 48136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_272" 126 299001 48132))
+(line 255
+  (data -8732 20000 -8732 19999)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_273" 126 -8732 20000))
+(polygon 255
+  (data -8736 19996 -8728 19996 -8728 20004 -8736 20004)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_273" 126 -8732 20000))
+(line 255
+  (data -7732 79400 -7732 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_274" 126 -7732 79400))
+(polygon 255
+  (data -7736 79396 -7728 79396 -7728 79404 -7736 79404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_274" 126 -7732 79400))
+(line 255
+  (data -7268 20000 -7268 19999)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_275" 126 -7268 20000))
+(polygon 255
+  (data -7272 19996 -7264 19996 -7264 20004 -7272 20004)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_275" 126 -7268 20000))
+(line 255
+  (data -6268 79400 -6268 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_276" 126 -6268 79400))
+(polygon 255
+  (data -6272 79396 -6264 79396 -6264 79404 -6272 79404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_276" 126 -6268 79400))
+(line 255
+  (data -1000 -14332 -1001 -14332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_277" 126 -1000 -14332))
+(polygon 255
+  (data -1004 -14336 -996 -14336 -996 -14328 -1004 -14328)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_277" 126 -1000 -14332))
+(line 255
+  (data -1000 27732 -1001 27732)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_278" 126 -1000 27732))
+(polygon 255
+  (data -1004 27728 -996 27728 -996 27736 -1004 27736)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_278" 126 -1000 27732))
+(line 255
+  (data 0 49268 -1 49268)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_279" 126 0 49268))
+(polygon 255
+  (data -4 49264 4 49264 4 49272 -4 49272)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_279" 126 0 49268))
+(line 255
+  (data 0 87132 -1 87132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_280" 126 0 87132))
+(polygon 255
+  (data -4 87128 4 87128 4 87136 -4 87136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_280" 126 0 87132))
+(line 255
+  (data 5268 20000 5268 19999)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_281" 126 5268 20000))
+(polygon 255
+  (data 5264 19996 5272 19996 5272 20004 5264 20004)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_281" 126 5268 20000))
+(line 255
+  (data 6268 79400 6268 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_282" 126 6268 79400))
+(polygon 255
+  (data 6264 79396 6272 79396 6272 79404 6264 79404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_282" 126 6268 79400))
+(line 255
+  (data 6732 20000 6732 19999)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_283" 126 6732 20000))
+(polygon 255
+  (data 6728 19996 6736 19996 6736 20004 6728 20004)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_283" 126 6732 20000))
+(line 255
+  (data 7732 79400 7732 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_284" 126 7732 79400))
+(polygon 255
+  (data 7728 79396 7736 79396 7736 79404 7728 79404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_284" 126 7732 79400))
+(line 255
+  (data 16268 -90280 16268 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_285" 126 16268 -90280))
+(polygon 255
+  (data 16264 -90284 16272 -90284 16272 -90276 16264 -90276)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_285" 126 16268 -90280))
+(line 255
+  (data 17732 -90280 17732 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_286" 126 17732 -90280))
+(polygon 255
+  (data 17728 -90284 17736 -90284 17736 -90276 17728 -90276)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_286" 126 17732 -90280))
+(line 255
+  (data 24000 -144235 23999 -144235)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_287" 126 24000 -144235))
+(polygon 255
+  (data 23996 -144239 24004 -144239 24004 -144231 23996 -144231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_287" 126 24000 -144235))
+(line 255
+  (data 38000 -103338 37999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_288" 126 38000 -103338))
+(polygon 255
+  (data 37996 -103342 38004 -103342 38004 -103334 37996 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_288" 126 38000 -103338))
+(line 255
+  (data 52000 -144235 51999 -144235)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_289" 126 52000 -144235))
+(polygon 255
+  (data 51996 -144239 52004 -144239 52004 -144231 51996 -144231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_289" 126 52000 -144235))
+(line 255
+  (data 66000 -103338 65999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_290" 126 66000 -103338))
+(polygon 255
+  (data 65996 -103342 66004 -103342 66004 -103334 65996 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_290" 126 66000 -103338))
+(line 255
+  (data 71268 18600 71268 18599)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_291" 126 71268 18600))
+(polygon 255
+  (data 71264 18596 71272 18596 71272 18604 71264 18604)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_291" 126 71268 18600))
+(line 255
+  (data 72268 79400 72268 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_292" 126 72268 79400))
+(polygon 255
+  (data 72264 79396 72272 79396 72272 79404 72264 79404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_292" 126 72268 79400))
+(line 255
+  (data 72732 18600 72732 18599)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_293" 126 72732 18600))
+(polygon 255
+  (data 72728 18596 72736 18596 72736 18604 72728 18604)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_293" 126 72732 18600))
+(line 255
+  (data 73732 79400 73732 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_294" 126 73732 79400))
+(polygon 255
+  (data 73728 79396 73736 79396 73736 79404 73728 79404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_294" 126 73732 79400))
+(line 255
+  (data 79000 -21382 78999 -21382)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_295" 126 79000 -21382))
+(polygon 255
+  (data 78996 -21386 79004 -21386 79004 -21378 78996 -21378)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_295" 126 79000 -21382))
+(line 255
+  (data 79000 26332 78999 26332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_296" 126 79000 26332))
+(polygon 255
+  (data 78996 26328 79004 26328 79004 26336 78996 26336)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_296" 126 79000 26332))
+(line 255
+  (data 80000 -144235 79999 -144235)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_297" 126 80000 -144235))
+(polygon 255
+  (data 79996 -144239 80004 -144239 80004 -144231 79996 -144231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_297" 126 80000 -144235))
+(line 255
+  (data 80000 47868 79999 47868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_298" 126 80000 47868))
+(polygon 255
+  (data 79996 47864 80004 47864 80004 47872 79996 47872)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_298" 126 80000 47868))
+(line 255
+  (data 80000 87132 79999 87132)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_299" 126 80000 87132))
+(polygon 255
+  (data 79996 87128 80004 87128 80004 87136 79996 87136)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_299" 126 80000 87132))
+(line 255
+  (data 85268 18600 85268 18599)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_300" 126 85268 18600))
+(polygon 255
+  (data 85264 18596 85272 18596 85272 18604 85264 18604)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_300" 126 85268 18600))
+(line 255
+  (data 86268 -90280 86268 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_301" 126 86268 -90280))
+(polygon 255
+  (data 86264 -90284 86272 -90284 86272 -90276 86264 -90276)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_301" 126 86268 -90280))
+(line 255
+  (data 86268 79400 86268 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_302" 126 86268 79400))
+(polygon 255
+  (data 86264 79396 86272 79396 86272 79404 86264 79404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_302" 126 86268 79400))
+(line 255
+  (data 86732 18600 86732 18599)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_303" 126 86732 18600))
+(polygon 255
+  (data 86728 18596 86736 18596 86736 18604 86728 18604)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_303" 126 86732 18600))
+(line 255
+  (data 87732 -90280 87732 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_304" 126 87732 -90280))
+(polygon 255
+  (data 87728 -90284 87736 -90284 87736 -90276 87728 -90276)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_304" 126 87732 -90280))
+(line 255
+  (data 87732 79400 87732 79399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_305" 126 87732 79400))
+(polygon 255
+  (data 87728 79396 87736 79396 87736 79404 87728 79404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_305" 126 87732 79400))
+(line 255
+  (data 141268 54400 141268 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_306" 126 141268 54400))
+(polygon 255
+  (data 141264 54396 141272 54396 141272 54404 141264 54404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_306" 126 141268 54400))
+(line 255
+  (data 142732 54400 142732 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_307" 126 142732 54400))
+(polygon 255
+  (data 142728 54396 142736 54396 142736 54404 142728 54404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_307" 126 142732 54400))
+(line 255
+  (data 149000 17988 148999 17988)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_308" 126 149000 17988))
+(polygon 255
+  (data 148996 17984 149004 17984 149004 17992 148996 17992)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_308" 126 149000 17988))
+(line 255
+  (data 152268 -90280 152268 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_309" 126 152268 -90280))
+(polygon 255
+  (data 152264 -90284 152272 -90284 152272 -90276 152264 -90276)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_309" 126 152268 -90280))
+(line 255
+  (data 153732 -90280 153732 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_310" 126 153732 -90280))
+(polygon 255
+  (data 153728 -90284 153736 -90284 153736 -90276 153728 -90276)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_310" 126 153732 -90280))
+(line 255
+  (data 160000 -174202 159999 -174202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_311" 126 160000 -174202))
+(polygon 255
+  (data 159996 -174206 160004 -174206 160004 -174198 159996 -174198)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_311" 126 160000 -174202))
+(line 255
+  (data 163000 41202 162999 41202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_312" 126 163000 41202))
+(polygon 255
+  (data 162996 41198 163004 41198 163004 41206 162996 41206)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_312" 126 163000 41202))
+(line 255
+  (data 174000 -103338 173999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_313" 126 174000 -103338))
+(polygon 255
+  (data 173996 -103342 174004 -103342 174004 -103334 173996 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_313" 126 174000 -103338))
+(line 255
+  (data 177000 17988 176999 17988)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_314" 126 177000 17988))
+(polygon 255
+  (data 176996 17984 177004 17984 177004 17992 176996 17992)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_314" 126 177000 17988))
+(line 255
+  (data 183268 54400 183268 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_315" 126 183268 54400))
+(polygon 255
+  (data 183264 54396 183272 54396 183272 54404 183264 54404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_315" 126 183268 54400))
+(line 255
+  (data 184732 54400 184732 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_316" 126 184732 54400))
+(polygon 255
+  (data 184728 54396 184736 54396 184736 54404 184728 54404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_316" 126 184732 54400))
+(line 255
+  (data 188000 -174202 187999 -174202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_317" 126 188000 -174202))
+(polygon 255
+  (data 187996 -174206 188004 -174206 188004 -174198 187996 -174198)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_317" 126 188000 -174202))
+(line 255
+  (data 202000 -103338 201999 -103338)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_318" 126 202000 -103338))
+(polygon 255
+  (data 201996 -103342 202004 -103342 202004 -103334 201996 -103334)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_318" 126 202000 -103338))
+(line 255
+  (data 216000 -174202 215999 -174202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_319" 126 216000 -174202))
+(polygon 255
+  (data 215996 -174206 216004 -174206 216004 -174198 215996 -174198)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_319" 126 216000 -174202))
+(line 255
+  (data 222268 -90280 222268 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_320" 126 222268 -90280))
+(polygon 255
+  (data 222264 -90284 222272 -90284 222272 -90276 222264 -90276)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_320" 126 222268 -90280))
+(line 255
+  (data 223732 -90280 223732 -90281)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_321" 126 223732 -90280))
+(polygon 255
+  (data 223728 -90284 223736 -90284 223736 -90276 223728 -90276)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_321" 126 223732 -90280))
+(line 255
+  (data 249268 54400 249268 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_322" 126 249268 54400))
+(polygon 255
+  (data 249264 54396 249272 54396 249272 54404 249264 54404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_322" 126 249268 54400))
+(line 255
+  (data 250732 54400 250732 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_323" 126 250732 54400))
+(polygon 255
+  (data 250728 54396 250736 54396 250736 54404 250728 54404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_323" 126 250732 54400))
+(line 255
+  (data 257000 6763 256999 6763)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_324" 126 257000 6763))
+(polygon 255
+  (data 256996 6759 257004 6759 257004 6767 256996 6767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_324" 126 257000 6763))
+(line 255
+  (data 271000 41202 270999 41202)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_325" 126 271000 41202))
+(polygon 255
+  (data 270996 41198 271004 41198 271004 41206 270996 41206)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_325" 126 271000 41202))
+(line 255
+  (data 285000 6763 284999 6763)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_326" 126 285000 6763))
+(polygon 255
+  (data 284996 6759 285004 6759 285004 6767 284996 6767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_326" 126 285000 6763))
+(line 255
+  (data 291268 54400 291268 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_327" 126 291268 54400))
+(polygon 255
+  (data 291264 54396 291272 54396 291272 54404 291264 54404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_327" 126 291268 54400))
+(line 255
+  (data 292732 54400 292732 54399)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_328" 126 292732 54400))
+(polygon 255
+  (data 292728 54396 292736 54396 292736 54404 292728 54404)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_328" 126 292732 54400))
+(line 255
+  (data -1000 -12868 -1001 -12868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_329" 126 -1000 -12868))
+(polygon 255
+  (data -1004 -12872 -996 -12872 -996 -12864 -1004 -12864)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_329" 126 -1000 -12868))
+(line 255
+  (data -1000 26268 -1001 26268)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_330" 126 -1000 26268))
+(polygon 255
+  (data -1004 26264 -996 26264 -996 26272 -1004 26272)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_330" 126 -1000 26268))
+(line 255
+  (data 0 50732 -1 50732)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_331" 126 0 50732))
+(polygon 255
+  (data -4 50728 4 50728 4 50736 -4 50736)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_331" 126 0 50732))
+(line 255
+  (data 0 85668 -1 85668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_332" 126 0 85668))
+(polygon 255
+  (data -4 85664 4 85664 4 85672 -4 85672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_332" 126 0 85668))
+(line 255
+  (data 24000 -142771 23999 -142771)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_333" 126 24000 -142771))
+(polygon 255
+  (data 23996 -142775 24004 -142775 24004 -142767 23996 -142767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_333" 126 24000 -142771))
+(line 255
+  (data 38000 -104802 37999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_334" 126 38000 -104802))
+(polygon 255
+  (data 37996 -104806 38004 -104806 38004 -104798 37996 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_334" 126 38000 -104802))
+(line 255
+  (data 52000 -142771 51999 -142771)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_335" 126 52000 -142771))
+(polygon 255
+  (data 51996 -142775 52004 -142775 52004 -142767 51996 -142767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_335" 126 52000 -142771))
+(line 255
+  (data 66000 -104802 65999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_336" 126 66000 -104802))
+(polygon 255
+  (data 65996 -104806 66004 -104806 66004 -104798 65996 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_336" 126 66000 -104802))
+(line 255
+  (data 79000 -19918 78999 -19918)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_337" 126 79000 -19918))
+(polygon 255
+  (data 78996 -19922 79004 -19922 79004 -19914 78996 -19914)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_337" 126 79000 -19918))
+(line 255
+  (data 79000 24868 78999 24868)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_338" 126 79000 24868))
+(polygon 255
+  (data 78996 24864 79004 24864 79004 24872 78996 24872)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_338" 126 79000 24868))
+(line 255
+  (data 80000 -142771 79999 -142771)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_339" 126 80000 -142771))
+(polygon 255
+  (data 79996 -142775 80004 -142775 80004 -142767 79996 -142767)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_339" 126 80000 -142771))
+(line 255
+  (data 80000 49332 79999 49332)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_340" 126 80000 49332))
+(polygon 255
+  (data 79996 49328 80004 49328 80004 49336 79996 49336)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_340" 126 80000 49332))
+(line 255
+  (data 80000 85668 79999 85668)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_341" 126 80000 85668))
+(polygon 255
+  (data 79996 85664 80004 85664 80004 85672 79996 85672)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_341" 126 80000 85668))
+(line 255
+  (data 149000 19452 148999 19452)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_342" 126 149000 19452))
+(polygon 255
+  (data 148996 19448 149004 19448 149004 19456 148996 19456)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_342" 126 149000 19452))
+(line 255
+  (data 160000 -172738 159999 -172738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_343" 126 160000 -172738))
+(polygon 255
+  (data 159996 -172742 160004 -172742 160004 -172734 159996 -172734)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_343" 126 160000 -172738))
+(line 255
+  (data 163000 39738 162999 39738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_344" 126 163000 39738))
+(polygon 255
+  (data 162996 39734 163004 39734 163004 39742 162996 39742)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_344" 126 163000 39738))
+(line 255
+  (data 174000 -104802 173999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_345" 126 174000 -104802))
+(polygon 255
+  (data 173996 -104806 174004 -104806 174004 -104798 173996 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_345" 126 174000 -104802))
+(line 255
+  (data 177000 19452 176999 19452)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_346" 126 177000 19452))
+(polygon 255
+  (data 176996 19448 177004 19448 177004 19456 176996 19456)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_346" 126 177000 19452))
+(line 255
+  (data 188000 -172738 187999 -172738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_347" 126 188000 -172738))
+(polygon 255
+  (data 187996 -172742 188004 -172742 188004 -172734 187996 -172734)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_347" 126 188000 -172738))
+(line 255
+  (data 202000 -104802 201999 -104802)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_348" 126 202000 -104802))
+(polygon 255
+  (data 201996 -104806 202004 -104806 202004 -104798 201996 -104798)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_348" 126 202000 -104802))
+(line 255
+  (data 216000 -172738 215999 -172738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_349" 126 216000 -172738))
+(polygon 255
+  (data 215996 -172742 216004 -172742 216004 -172734 215996 -172734)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_349" 126 216000 -172738))
+(line 255
+  (data 257000 8227 256999 8227)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_350" 126 257000 8227))
+(polygon 255
+  (data 256996 8223 257004 8223 257004 8231 256996 8231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_350" 126 257000 8227))
+(line 255
+  (data 271000 39738 270999 39738)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_351" 126 271000 39738))
+(polygon 255
+  (data 270996 39734 271004 39734 271004 39742 270996 39742)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_351" 126 271000 39738))
+(line 255
+  (data 285000 8227 284999 8227)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_352" 126 285000 8227))
+(polygon 255
+  (data 284996 8223 285004 8223 285004 8231 284996 8231)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_352" 126 285000 8227))
