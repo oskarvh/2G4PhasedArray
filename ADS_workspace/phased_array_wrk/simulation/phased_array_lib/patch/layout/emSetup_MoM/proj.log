@@ -1,7 +1,7 @@
-License checkout took 0.035 sec
+License checkout took 0.082 sec
 Momentum MomEngine_64 12.00.024 (*) built: Jan 14 2016
 Copyright 1992-2016, Keysight Technologies
-Simulation started on: Fri Jan 06 12:09:34 2023
+Simulation started on: Tue Oct 24 19:44:31 2023
 Simulation Mode: uW
 Substrate valid
 Using the minimal snap distance of 0.0004 mm
@@ -9,17 +9,8 @@ Using the minimal snap distance of 0.0004 mm
 Layout simplification started
 .........|.........|.........|.........| 
 Layout simplification finished
-
---- WARNING -------------------------------------------------------------------
-
-The port setup needed to be corrected:
-Calibration will not be used for port "P1" (pin
-"P1" is not on the edge between a conductive and
-a nonconductive region).
-
--------------------------------------------------------------------------------
 Generating mesh at 3 GHz...
-License checkout took 0.033 sec
+License checkout took 0.076 sec
 S-parameter simulation
 S-parameter simulation started
 ...initializing
@@ -27,7 +18,14 @@ S-parameter simulation started
 ...analyzing ports
 Automatic selection: direct dense matrix solver
 Using multi-threading (8 threads)
-Matrix size: 2045 (reduced: 2045)
+Matrix size: 1924 (reduced: 1924)
+
+--- WARNING -------------------------------------------------------------------
+
+The size of the plus pin for S-parameter port 1 is electrically large 
+above 0.446114 GHz, S-parameters may become unphysical.
+
+-------------------------------------------------------------------------------
 
 --- WARNING -------------------------------------------------------------------
 
@@ -44,24 +42,15 @@ Simulation frequency [1] = 2 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
-
---- WARNING -------------------------------------------------------------------
-
-S-parameter data show unphysical behavior for certain frequencies.
-Cause        : - electrically large port size
-               - electrically large via using lumped model
-               - mesh density is too coarse
-               - matrix solver compression is too high
-               - inaccurate (high frequency) calibration
-
--------------------------------------------------------------------------------
 Simulation frequency [2] = 2.05 GHz
 ...loading Green functions
 ...loading interaction matrix
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [3] = 2.1 GHz
 ...loading Green functions
@@ -69,6 +58,7 @@ Simulation frequency [3] = 2.1 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [4] = 2.15 GHz
 ...loading Green functions
@@ -76,6 +66,7 @@ Simulation frequency [4] = 2.15 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [5] = 2.2 GHz
 ...loading Green functions
@@ -83,6 +74,7 @@ Simulation frequency [5] = 2.2 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [6] = 2.25 GHz
 ...loading Green functions
@@ -90,6 +82,7 @@ Simulation frequency [6] = 2.25 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [7] = 2.3 GHz
 ...loading Green functions
@@ -97,6 +90,7 @@ Simulation frequency [7] = 2.3 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [8] = 2.35 GHz
 ...loading Green functions
@@ -104,6 +98,7 @@ Simulation frequency [8] = 2.35 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [9] = 2.4 GHz
 ...loading Green functions
@@ -111,6 +106,7 @@ Simulation frequency [9] = 2.4 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [10] = 2.45 GHz
 ...loading Green functions
@@ -118,6 +114,7 @@ Simulation frequency [10] = 2.45 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [11] = 2.5 GHz
 ...loading Green functions
@@ -125,6 +122,7 @@ Simulation frequency [11] = 2.5 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [12] = 2.55 GHz
 ...loading Green functions
@@ -132,6 +130,7 @@ Simulation frequency [12] = 2.55 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [13] = 2.6 GHz
 ...loading Green functions
@@ -139,6 +138,7 @@ Simulation frequency [13] = 2.6 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [14] = 2.65 GHz
 ...loading Green functions
@@ -146,6 +146,7 @@ Simulation frequency [14] = 2.65 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [15] = 2.7 GHz
 ...loading Green functions
@@ -153,6 +154,7 @@ Simulation frequency [15] = 2.7 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [16] = 2.75 GHz
 ...loading Green functions
@@ -160,6 +162,7 @@ Simulation frequency [16] = 2.75 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [17] = 2.8 GHz
 ...loading Green functions
@@ -167,6 +170,7 @@ Simulation frequency [17] = 2.8 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [18] = 2.85 GHz
 ...loading Green functions
@@ -174,6 +178,7 @@ Simulation frequency [18] = 2.85 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [19] = 2.9 GHz
 ...loading Green functions
@@ -181,6 +186,7 @@ Simulation frequency [19] = 2.9 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [20] = 2.95 GHz
 ...loading Green functions
@@ -188,6 +194,7 @@ Simulation frequency [20] = 2.95 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 Simulation frequency [21] = 3 GHz
 ...loading Green functions
@@ -195,7 +202,8 @@ Simulation frequency [21] = 3 GHz
 .........|.........|.........|.........| 
 ...solving interaction matrix
 .........|.........|.........|.........| 
+...calibrating ports
 ...calculating S-parameters
 S-parameter simulation finished
-Simulation finished on: Fri Jan 06 12:10:19 2023
+Simulation finished on: Tue Oct 24 19:46:01 2023
 The simulation results have been saved in dataset "patch_MomUW".

@@ -1,4 +1,5 @@
 <!DOCTYPE DisplayAttributes>
 <Lpp_Differences_List>
-    <LPP layer="silk_screen2" visible="1" purpose="drawing"/>
+    <LPP purpose="drawing" layer="cond2" protect="1"/>
+    <LPP visible="1" purpose="drawing" layer="silk_screen2"/>
 </Lpp_Differences_List>

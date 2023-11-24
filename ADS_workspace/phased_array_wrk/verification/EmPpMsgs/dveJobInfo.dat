@@ -1,5 +1,5 @@
 jobName=EmPpMsgs
 jobType=emprep
-designName=phased_array_lib:patch:layout
+designName=phased_array_lib:patch_v3:layout
 ruleFilePath=
 addInfo="EM preprocessor messages displayed as DRC errors"

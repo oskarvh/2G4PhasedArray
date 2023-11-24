@@ -1,6 +1,6 @@
 simulationMode 1;
 # simDir "C:\git\2G4PhasedArray\ADS_workspace\phased_array_wrk\simulation\phased_array_lib\patch\layout\emSetup_MoM";
-# simTag "M230106120934";
+# simTag "M231024194430";
 logFile "proj.log";
 processPriority Normal;
 mesh_reduction OFF;

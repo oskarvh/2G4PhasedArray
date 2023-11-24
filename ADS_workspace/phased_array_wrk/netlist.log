@@ -1,12 +1,32 @@
 
-Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="phased_array_lib:patch:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
-model MSub1 MSUB H=1.6 mm Er=4.6 Mur=1 Cond=1.0E+50 Hu=3.9e+34 mm T=35 um TanD=0.015 Rough=0 mm DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz RoughnessModel=2 
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="phased_array_lib:patch_v3_cosim:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+define patch_v3 ( P1  P2  P3  Ref=0 ) 
+;parameters 
+; MomCmpt model has node 0 as implicit reference. Ref node will be ignored and assumed to be grounded!
+em_data_name="phased_array_lib:patch_v3:emModel"
+MomCmpt:em_data  P1 P2 P3 \
+    name=em_data_name \
+    paramFile="" \
+    modelFile="C:/git/2G4PhasedArray/ADS_workspace/phased_array_wrk/phased_array_lib/patch_v3/em%Model/model.ndx" \
+    ModelReuse=1 \
+    ModelType="MOMMW" \
+    ExtrapolationMode="linear" \
+    EnforcePassivity=-1
+end patch_v3
+C:C1  N__0 N__1 C=0.5 pF 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
 
-W=36.56
-L=28.18
-Wf=3.1
-L_if=9.949
-VIA:V1  N__4 N__5 D1=0.375 mm D2=0.375 mm H=0.625 mm T=0.00375 mm 
-MLIN2:TL3  N__5 P1 Subst="MSub1" W=0.625 mm L=2.5 mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
-MLOC2:TL1  N__4 Subst="MSub1" W=(W) mm L=(L-L_if) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
-MLOC2:TL2  N__4 Subst="MSub1" W=(W) mm L=(L_if) mm Wall1=2.5e+028 mm Wall2=2.5e+028 mm Mod=1 
+SweepPlan: SP1_stim Start=2.4 GHz Stop=2.5 GHz Lin=51 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+Port:Term1  N__3 0 Num=1 Z=50 Ohm Noise=yes 
+patch_v3:I__4  N__3 N__0 N__1 

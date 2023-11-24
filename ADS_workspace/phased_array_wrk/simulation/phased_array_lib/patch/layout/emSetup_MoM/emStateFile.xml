@@ -662,6 +662,18 @@
                 <TLMeshType>0</TLMeshType>
                 <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
               </MomSimOptMeshNetSpecMapData>
+              <keyName>N__15</keyName>
+              <MomSimOptMeshNetSpecMapData version="1.0">
+                <netName>N__15</netName>
+                <MeshDensityType>0</MeshDensityType>
+                <MeshDensity>0</MeshDensity>
+                <MeshDensityUnit></MeshDensityUnit>
+                <EdgeMeshType>0</EdgeMeshType>
+                <EdgeMeshEdgeWidth>0</EdgeMeshEdgeWidth>
+                <EdgeMeshEdgeWidthUnit></EdgeMeshEdgeWidthUnit>
+                <TLMeshType>0</TLMeshType>
+                <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
+              </MomSimOptMeshNetSpecMapData>
               <keyName>N__16</keyName>
               <MomSimOptMeshNetSpecMapData version="1.0">
                 <netName>N__16</netName>
@@ -713,18 +725,6 @@
               <keyName>N__6</keyName>
               <MomSimOptMeshNetSpecMapData version="1.0">
                 <netName>N__6</netName>
-                <MeshDensityType>0</MeshDensityType>
-                <MeshDensity>0</MeshDensity>
-                <MeshDensityUnit></MeshDensityUnit>
-                <EdgeMeshType>0</EdgeMeshType>
-                <EdgeMeshEdgeWidth>0</EdgeMeshEdgeWidth>
-                <EdgeMeshEdgeWidthUnit></EdgeMeshEdgeWidthUnit>
-                <TLMeshType>0</TLMeshType>
-                <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
-              </MomSimOptMeshNetSpecMapData>
-              <keyName>N__7</keyName>
-              <MomSimOptMeshNetSpecMapData version="1.0">
-                <netName>N__7</netName>
                 <MeshDensityType>0</MeshDensityType>
                 <MeshDensity>0</MeshDensity>
                 <MeshDensityUnit></MeshDensityUnit>
@@ -840,6 +840,13 @@
                 <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
                 <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
               </MomSimOptSubstrateNetSpecMapData>
+              <keyName>N__15</keyName>
+              <MomSimOptSubstrateNetSpecMapData version="1.0">
+                <netName>N__15</netName>
+                <MetalExpansion>0</MetalExpansion>
+                <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
+                <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
+              </MomSimOptSubstrateNetSpecMapData>
               <keyName>N__16</keyName>
               <MomSimOptSubstrateNetSpecMapData version="1.0">
                 <netName>N__16</netName>
@@ -871,13 +878,6 @@
               <keyName>N__6</keyName>
               <MomSimOptSubstrateNetSpecMapData version="1.0">
                 <netName>N__6</netName>
-                <MetalExpansion>0</MetalExpansion>
-                <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
-                <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
-              </MomSimOptSubstrateNetSpecMapData>
-              <keyName>N__7</keyName>
-              <MomSimOptSubstrateNetSpecMapData version="1.0">
-                <netName>N__7</netName>
                 <MetalExpansion>0</MetalExpansion>
                 <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
                 <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
@@ -1111,6 +1111,18 @@
               <TLMeshType>0</TLMeshType>
               <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
             </MomSimOptMeshNetSpecMapData>
+            <keyName>N__15</keyName>
+            <MomSimOptMeshNetSpecMapData version="1.0">
+              <netName>N__15</netName>
+              <MeshDensityType>0</MeshDensityType>
+              <MeshDensity>0</MeshDensity>
+              <MeshDensityUnit></MeshDensityUnit>
+              <EdgeMeshType>0</EdgeMeshType>
+              <EdgeMeshEdgeWidth>0</EdgeMeshEdgeWidth>
+              <EdgeMeshEdgeWidthUnit></EdgeMeshEdgeWidthUnit>
+              <TLMeshType>0</TLMeshType>
+              <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
+            </MomSimOptMeshNetSpecMapData>
             <keyName>N__16</keyName>
             <MomSimOptMeshNetSpecMapData version="1.0">
               <netName>N__16</netName>
@@ -1162,18 +1174,6 @@
             <keyName>N__6</keyName>
             <MomSimOptMeshNetSpecMapData version="1.0">
               <netName>N__6</netName>
-              <MeshDensityType>0</MeshDensityType>
-              <MeshDensity>0</MeshDensity>
-              <MeshDensityUnit></MeshDensityUnit>
-              <EdgeMeshType>0</EdgeMeshType>
-              <EdgeMeshEdgeWidth>0</EdgeMeshEdgeWidth>
-              <EdgeMeshEdgeWidthUnit></EdgeMeshEdgeWidthUnit>
-              <TLMeshType>0</TLMeshType>
-              <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
-            </MomSimOptMeshNetSpecMapData>
-            <keyName>N__7</keyName>
-            <MomSimOptMeshNetSpecMapData version="1.0">
-              <netName>N__7</netName>
               <MeshDensityType>0</MeshDensityType>
               <MeshDensity>0</MeshDensity>
               <MeshDensityUnit></MeshDensityUnit>
@@ -1289,6 +1289,13 @@
               <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
               <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
             </MomSimOptSubstrateNetSpecMapData>
+            <keyName>N__15</keyName>
+            <MomSimOptSubstrateNetSpecMapData version="1.0">
+              <netName>N__15</netName>
+              <MetalExpansion>0</MetalExpansion>
+              <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
+              <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
+            </MomSimOptSubstrateNetSpecMapData>
             <keyName>N__16</keyName>
             <MomSimOptSubstrateNetSpecMapData version="1.0">
               <netName>N__16</netName>
@@ -1320,13 +1327,6 @@
             <keyName>N__6</keyName>
             <MomSimOptSubstrateNetSpecMapData version="1.0">
               <netName>N__6</netName>
-              <MetalExpansion>0</MetalExpansion>
-              <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
-              <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
-            </MomSimOptSubstrateNetSpecMapData>
-            <keyName>N__7</keyName>
-            <MomSimOptSubstrateNetSpecMapData version="1.0">
-              <netName>N__7</netName>
               <MetalExpansion>0</MetalExpansion>
               <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
               <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
@@ -1786,7 +1786,7 @@
         <Pins>
           <Pin version="1.0">
             <pinName>P1</pinName>
-            <netName>N__7</netName>
+            <netName>N__3</netName>
             <pinNum>1</pinNum>
             <toolInfo/>
             <compInfo/>
@@ -1797,7 +1797,7 @@
                 <layerIdName>cond:drawing</layerIdName>
                 <shapeType>point</shapeType>
                 <points>
-                  <stdItem>0.0035359:-0.00073</stdItem>
+                  <stdItem>0.0040933:-0.000794</stdItem>
                 </points>
               </PinShapeDef>
             </shapes>
